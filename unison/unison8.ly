@@ -1,7 +1,7 @@
 \version "2.18.2"
 \score {
   \new Staff \with { instrumentName = #"I" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g1 g \bar "||"
@@ -19,7 +19,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"II" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g1 g \bar "||"
@@ -37,7 +37,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"III" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g1 g \bar "||"
@@ -56,7 +56,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"IV" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
    g1 g  \bar "||"
@@ -73,3 +73,4 @@
   }
  
 }
+

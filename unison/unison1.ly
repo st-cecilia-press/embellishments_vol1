@@ -8,10 +8,9 @@
     f4 f g a g1
     g4. f8 a2 g1
     g4 f g8 f g a g1 
-    g8 a b c d e f g g,1
+  
     r8 g8 f e16 f g8 f16 g a8 f g1
-    g8 a b16 c d e d e f g f8 g  g,1
-    g16 f g f e d e f g a b c d e f g g,1
+  
     g16 f g a g8 f g f g a g1
  \bar "||" \break
   }
@@ -47,8 +46,7 @@
     g8 c, d e f g e f g1
     g8 f e d e c f e16 f g1
     g8 a b e, f g e16 d e f g1
-    g'16 f g f e d c g' f e f e d c b a g1
-    g'4 f8 e d c b a g1
+ 
     g8 a b f g a e f g1
  \bar "||" \break
   }
