@@ -158,9 +158,8 @@
   \relative c'' { 
    
   \time 4/2
-   b1 c \bar "||"
  
-  
+ b1 c \bar "||" 
  b4 c a b c1
  b4. a b4 c1
  b4 d,8 e f g a b c1
