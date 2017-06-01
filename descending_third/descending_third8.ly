@@ -4,7 +4,7 @@
   \relative c'' { 
    
   \time 4/2
-  g'2. f4 e1 \bar "||" 
+  g2. f4 e1 \bar "||" 
   g4 f g f e1
   g8 e g4. f4. e1
   g4 e8 f g d e f e1
@@ -20,7 +20,7 @@
 
 \score {
   \new Staff \with { instrumentName = #"II" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
  g2. f4 e1 \bar "||" 
@@ -30,15 +30,14 @@
  g8 f e d g f e d e1
  g8 f16 e f8 d e4 d8 c16 d e1
  g8 f g16 f e f g8 f g16 f e d e1
- g,16 f g a b c d e f e, f g a b c d e1
- g16 f g e f g a g f e d c b a g f e1
+
  \bar "||" 
   }
  
 }
 \score {
   \new Staff \with { instrumentName = #"III" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
  g2. f4 e1 \bar "||" 
@@ -48,15 +47,14 @@
  g8 a e g f d e f e1
  g8 e16 f g8 f e d16 e f4 e1
  g8 a f g f16 e d e f g f8 e1
- g,16 f g a b c d e, f g a b c d e f e1
- g16 f e d e f g e f e d c b a g f e1
+
  \bar "||" 
   }
  
 }
 \score {
   \new Staff \with { instrumentName = #"IV" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g2. f4 e1  \bar "||"
@@ -74,7 +72,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"V" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g2. f4 e1 \bar "||"
@@ -92,7 +90,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"VI" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g2. f4 e1 \bar "||" 
@@ -111,7 +109,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"VII" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g2. f4 e1 \bar "||" 
@@ -129,7 +127,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"VIII" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g2. f4 e1 \bar "||" 
@@ -147,7 +145,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"IX" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
  g2. f4 e1  \bar "||" 
@@ -165,7 +163,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"X" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
  g2. f4 e1  \bar "||" 
@@ -183,7 +181,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"XI" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
  g2. f4 e1 \bar "||" 

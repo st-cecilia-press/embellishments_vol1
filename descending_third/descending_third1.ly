@@ -174,8 +174,8 @@
  g4 d'8 c b a g f e1
  g8 a b c b a g f e1
  g16 a b8 a16 b c8 b a g f e1
- g16 a b c d e c8 b a g f e1
- g'16 f e d c b a g f g a b c d e f e1
+
+ g16 f e d c b a g f g a b c d e f e1
  g,16 a b g a b g a f g a b c d e f e1
  \bar "||" 
   }
@@ -191,11 +191,11 @@
  g4. e8 g a4 f8 e1
  g8 a b e, f g4 f8 e1
  g8 a b e, f g a f e1
- g8 f e16 f g8 e'16 f g8 d16 e f8 e1
- g,16 a b g a g f e b'8 a g f e1
- g16 e f g a g a b c b c d e d e f e1
- g,16 a f g a b c d c d e f e d e f e1
+ 
+ g16 a b g a g f e b'8 a g f e1
+
  \bar "||" 
   }
  
 }
+
