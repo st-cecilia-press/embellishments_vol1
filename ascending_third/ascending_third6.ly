@@ -30,8 +30,8 @@
   b4. a8 b8 a16 b c8 b16 c d1
   r4 b2 c4 d1
   b8 a b16 a b c b8 a16 b c d c8 d1
-  b16 c d e f g a b c d e d c d e c d1
-  b16 a g f g f e d c d e f g a b c d1
+
+  b'16 a g f g f e d c d e f g a b c d1
  \bar "||" \break
   }
 }
@@ -189,3 +189,9 @@
  \bar "||" \break
   }
   }
+\layout{
+  \context{
+    \Staff
+    \consists "Ambitus_engraver"
+  }
+}

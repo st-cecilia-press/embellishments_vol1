@@ -4,15 +4,13 @@
   \relative c'' { 
    
   \time 4/2
-  b2. c4 d1   \bar "||"
-  b4 e d c d1
-  b8 e4. d4. c8 d1
-  b8 c d e b4 c d1
-  b'8 c a g f e d c d1
-  b8 c d16 c d e b8 d c b16 c d1
-  b8 c d b c16 d e f g a b c d1
-  b16 a g f e d c b c d e f g a b c d1
-  b16 a g f b a g f e d e f g a b c d1
+  c2. d4 e1   \bar "||"
+  c4 f e d e1
+  c8 f4. e4. d8 e1
+  c8 d e f c4 d e1
+  c'8 d b a g f e d e1
+  c8 d e16 d e f c8 e d c16 d e1
+
  \bar "||" \break
   }
 }
@@ -21,17 +19,16 @@
   \relative c'' { 
    
   \time 4/2
-  b2. c4 d1
+  c2. d4 e1
      \bar "||"
-  b4 a b c d1
-  b4. a8 b c4. d1
-  b4 a b8 a b c d1
-  b8 c d b c d b c d1
-  b4. a8 b8 a16 b c8 b16 c d1
-  r4 b2 c4 d1
-  b8 a b16 a b c b8 a16 b c d c8 d1
-  b16 c d e f g a b c d e d c d e c d1
-  b16 a g f g f e d c d e f g a b c d1
+  c4 b c d e1
+  c4. b8 c d4. e1
+  c4 b c8 b c d e1
+  c8 d e c d e c d e1
+  c4. b8 c8 b16 c d8 c16 d e1
+  r4 c2 d4 e1
+  c8 b c16 b c d c8 b16 c d e d8 e1
+  
  \bar "||" \break
   }
 }
@@ -40,16 +37,16 @@
   \relative c'' { 
    
   \time 4/2
-  b2. c4 d1
+  c2. d4 e1
      \bar "||"
-     b4 a d c d1
-     b4 a8 g d'4. c8 d1
-     b4 g8 a b a b c d1
-     b8 a g a b a b c d1
-     b16 a b c d8 b c d a16 b c8 d1
-     b16 a b c b a b c b8 a b c d1
-     b16 c d e f g a b c b a g f e d c d1
-     b16 a g f e d e f g f g a b a b c d1
+     c4 b e d e1
+     c4 b8 a e'4. d8 e1
+     c4 a8 b c b c d e1
+     c8 b a b c b c d e1
+     c16 b c d e8 c d e b16 c d8 e1
+     c16 b c d c b c d c8 b c d e1
+     c16 d e f g a b c d c b a g f e d e1
+     c16 b a g f e f g a g a b c b c d e1
 
  \bar "||" \break
   }
@@ -59,15 +56,15 @@
   \relative c'' { 
    
   \time 4/2
-   b2. c4 d1  \bar "||"
-   b4 g b c d1
-   b4. g8. b8. c4 d1
-   b4 g8 f g a b c d1
-   b8 a g f g a b c d1
-   b8 a b16 a b8 c b c16 b c8 d1
-   b8 g a b g16 f g a b a b c d1
-   b16 a g a b c d b c b a b c d e c d1
-   b16 a g f g a b c d c d c d c b c d1
+   c2. d4 e1  \bar "||"
+   c4 a c d e1
+   c4. a8. c8. d4 e1
+   c4 a8 g a b c d e1
+   c8 b a g a b c d e1
+   c8 b c16 b c8 d c d16 c d8 e1
+   c8 a b c a16 g a b c b c d e1
+   c16 b a b c d e c d c b c d e f d e1
+   c16 b a g a b c d e d e d e d c d e1
  \bar "||" \break
   }
   }
@@ -76,13 +73,13 @@
   \relative c'' { 
    
   \time 4/2
-  b2. c4 d1    \bar "||"
-  b4 c d b d1 b4 c2 c4 d1 b8 a g a b4 c4 d1 
-  b8 c a b c d c b d1
-  b4 a8 g16 a b8 a16 b c8 b d1
-  b16 a b c b8 a b a b16 a b c d1
-  b16 g a b c d e f g f g f e d c b d1
-  b16 c d b c d b c d c b a b a b c d1
+  c2. d4 e1    \bar "||"
+  c4 d e c e1 c4 d2 d4 e1 c8 b a b c4 d4 e1 
+  c8 d b c d e d c e1
+  c4 b8 a16 b c8 b16 c d8 c e1
+  c16 b c d c8 b c b c16 b c d e1
+  c16 a b c d e f g a g a g f e d c e1
+  c16 d e c d e c d e d c b c b c d e1
  \bar "||" \break
   }
   }
@@ -91,15 +88,15 @@
   \relative c'' { 
    
   \time 4/2
-    b2. c4 d1 \bar "||"
-  b4 d c b d1
-  b4 d2 c4 d1
-  b8 c d e c4. b8 d1
-  b8 c a b c a b c d1
-  b8 a b16 a b c b8 d c b16 c d1
-  b8 a b16 a b c b8 a b16 a b c d1
-  b16 c d b c d b c d d, e f g a b c d1
-  d16 c b a g a b c d c d c d c b c d1
+    c2. d4 e1 \bar "||"
+  c4 e d c e1
+  c4 e2 d4 e1
+  c8 d e f d4. c8 e1
+  c8 d b c d b c d e1
+  c8 b c16 b c d c8 e d c16 d e1
+  c8 b c16 b c d c8 b c16 b c d e1
+  c16 d e c d e c d e e, f g a b c d e1
+  e16 d c b a b c d e d e d e d c d e1
  \bar "||" \break
   }
   }
@@ -108,15 +105,15 @@
   \relative c'' { 
    
   \time 4/2
-  b2. c4 d1   \bar "||"
-  b4 c d c d1
-  r8 b8 c2. d1
-  b8 c d4 c b8 c d1
-  b8 g a f g a b c d1
-  b8 a16 b c4 d c8 b16 c d1
-  b16 a b a b a g f g8 a b c d1
-  b16 a g a b a g f g f e f g a b c d1
-  b16 a g f g a b c d b c d e d c b d1
+  c2. d4 e1   \bar "||"
+  c4 d e d e1
+  r8 c8 d2. e1
+  c8 d e4 d c8 d e1
+  c8 a b g a b c d e1
+  c8 b16 c d4 e d8 c16 d e1
+  c16 b c b c b a g a8 b c d e1
+  c16 b a b c b a g a g f g a b c d e1
+  c16 b a g a b c d e c d e f e d c e1
  \bar "||" \break
   }
   }
@@ -125,15 +122,15 @@
   \relative c'' { 
    
   \time 4/2
-  b2. c4 d1   \bar "||"
-  b4 c d e d1
-  r4 b r e d1
-  b8 a b c d4 c d1
-  b8 c d e b c d e d1
-  b8 a g16 a b8 c d b c d1
-  b16 a g a b8 a b c d e d1
-  b,16 c d e f g a b c b a g f e d c d1
-  b16 c d e f g a b c, d e f g a b c d1
+  c2. d4 e1   \bar "||"
+  c4 d e f e1
+  r4 c r f e1
+  c8 b c d e4 d e1
+  c8 d e f c d e f e1
+  c8 b a16 b c8 d e c d e1
+  c16 b a b c8 b c d e f e1
+  c,16 d e f g a b c d c b a g f e d e1
+  c16 d e f g a b c d, e f g a b c d e1
   
  \bar "||" 
   }
@@ -143,15 +140,15 @@
   \relative c'' { 
    
   \time 4/2
-    b2. c4 d1 \bar "||"
-    b4 c d b d1
-    r4 b4 r8 d8 c4 d1
-    b8 c d4 c b8 a d1
-    b8 a b c d a b c d1
-    b8 g a g16 a b8 d c b16 c d1
-    b8 a b c d16 d, e f g a b c d1
-    b16 a g f g f e d e f g a b a b c d1
-    b,16 c d b c d e f c d e f g a b c d1
+    c2. d4 e1 \bar "||"
+    c4 d e c e1
+    r4 c4 r8 e8 d4 e1
+    c8 d e4 d c8 b e1
+    c8 b c d e b c d e1
+    c8 a b a16 b c8 e d c16 d e1
+    c8 b c d e16 e, f g a b c d e1
+    c16 b a g a g f e f g a b c b c d e1
+    c,16 d e c d e f g d e f g a b c d e1
  \bar "||" \break
   }
   }
@@ -160,15 +157,15 @@
   \relative c'' { 
    
   \time 4/2
-  b2. c4 d1   \bar "||"
-  b4 d b c d1
-  r4 b4. b8 c4 d1
-  b4 e,8 f g a b c d1
-  b8 c d b g a d c d1
-  b16 a b c d8 b e b a16 b c8 d1
-  b16 a b c d8 b g16 f g a b8 c d1
-  b16 a g f e d c b b' a g f g a b c d1
-  b,16 c d e f g a b g f e f g a b c d1
+  c2. d4 e1   \bar "||"
+  c4 e c d e1
+  r4 c4. c8 d4 e1
+  c4 f,8 g a b c d e1
+  c8 d e c a b e d e1
+  c16 b c d e8 c f c b16 c d8 e1
+  c16 b c d e8 c a16 g a b c8 d e1
+  c16 b a g f e d c c' b a g a b c d e1
+  c,16 d e f g a b c a g f g a b c d e1
  \bar "||" \break
   }
   }
@@ -177,15 +174,16 @@
   \relative c'' { 
    
   \time 4/2
-   b2. c4 d1  \bar "||"
-   g,4 a b c d1
-   a4 b2 c4 d1
-   b4. a8 b a b c d1
-   b8 a g f b a b c d1
-   r8 a8 b a b a16 b c8 b16 c d1
-   r8 b, c16 d e f g8 a b c d1
-   b,16 g a b c b c d e d e f g a b c d1
-   b16 a g a b c d b c b a f e d c d1
+   c2. d4 e1  \bar "||"
+   a,4 b c d e1
+   b4 c2 d4 e1
+   c4. b8 c b c d e1
+   c8 b a g c b c d e1
+   r8 b8 c b c b16 c d8 c16 d e1
+   r8 c, d16 e f g a8 b c d e1
+   c,16 a b c d c d e f e f g a b c d e1
+   c16 b a b c d e c d c b g f e d e1
  \bar "||" \break
   }
   }
+
