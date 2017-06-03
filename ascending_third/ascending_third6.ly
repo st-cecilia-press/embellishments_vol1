@@ -189,9 +189,4 @@
  \bar "||" \break
   }
   }
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}
+

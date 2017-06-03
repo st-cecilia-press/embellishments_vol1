@@ -4,15 +4,15 @@
   \relative c''' { 
    
   \time 4/2
-  e2 d4 c b1 \bar "||"
-  e4 a, b c b1
-  e4. d4 c4. b1
-  e8 d c d e4 d8 c b1
-  e,8 d e f g a b c b1
-  e8 c16 d e8. d8. g,8 a16 b c8 b1
-  e,8 f16 g a b c d e8 d16 e d8. c16 b1
-  e,16 d c b a g a b c d e f g a b c b1
-  e,16 d c d e d e f e d e f g  b c b1
+  g2 f4 e d1 \bar "||"
+  g4 c, d e d1
+  g4. f4 e4. d1
+  g8 f e f g4 f8 e d1
+  g,8 f g a b c d e d1
+  g8 e16 f g8. f8. b,8 c16 d e8 d1
+  g,8 a16 b c d e f g8 f16 g f8. e16 d1
+  g,16 f e d c b c d e f g a b c d e d1
+  g,16 f e f g f g a g f g a b  d e d1
  \bar "||" \break
   }
  
@@ -22,16 +22,16 @@
   \relative c''' { 
    
   \time 4/2
- d2 c4 b a1
+ g2 f4 e d1
  \bar "||"
- d4 e c b a1
- d4 c8 b a b4. a1
- d,4 e8 f g a b4 a1
- d,8 e f g a g a b a1
- d16 b c d g,8 c16 b c a b c b8. b16 a1
- d8 g,16 a b c d8 d4 c8 b a1
- d,16 c d e f e f g a g f g a g a b a1
- d16 c b a g a b c d b c d e d c b a1
+ g4 a f e d1
+ g4 f8 e d e4. d1
+ g,4 a8 b c d e4 d1
+ g,8 a b c d c d e d1
+ g16 e f g c,8 f16 e f d e f e8. e16 d1
+ g8 c,16 d e f g8 g4 f8 e d1
+ g,16 f g a b a b c d c b c d c d e d1
+ g16 f e d c d e f g e f g a g f e d1
  \bar "||" \break
   }
  
@@ -41,15 +41,15 @@
   \relative c''' { 
    
   \time 4/2
-  c2 b g1 \bar "||"
-  c4 a c b g1
-  r4 c8 d c a b4 g1
-  c4 b8 d c b a b g1
-  c8 a b d c b a b g1
-  c8 g16 a b8 a16 b c8 b16 c b8. a16 g1
-  c,16 d e f g a b c d8 c b a g1
-  c16 a b c d c d e d c d c d c b a g1
-  c16 a b c d g, a b c a b c d c b a g1
+  g2 f d1 \bar "||"
+  g4 e g f d1
+  r4 g8 a g e f4 d1
+  g4 f8 a g f e f d1
+  g8 e f a g f e f d1
+  g8 d16 e f8 e16 f g8 f16 g f8. e16 d1
+  g,16 a b c d e f g a8 g f e d1
+  g16 e f g a g a b a g a g a g f e d1
+  g16 e f g a d, e f g e f g a g f e d1
  \bar "||" \break
   }
  
@@ -59,16 +59,16 @@
   \relative c''' { 
    
   \time 4/2
-b2. a4 f1 \bar "||"
-b4 a g a f1
-b4 a8 f4. g4 f1
-b4. a8 f g a4 f1
-b8 a g f b a g a f1
-b8 a g f a g f16 g a8 f1
-b8 a b g f g a4 f1
-b8 a b16 a g f a8 g16 a b g a8 f1
-b16 a g f g a b c d c b a c b a g f1
-b,16 c d e f g a b c b a g a e f g f1
+g2. f4 d1 \bar "||"
+g4 f e f d1
+g4 f8 d4. e4 d1
+g4. f8 d e f4 d1
+g8 f e d g f e f d1
+g8 f e d f e d16 e f8 d1
+g8 f g e d e f4 d1
+g8 f g16 f e d f8 e16 f g e f8 d1
+g16 f e d e f g a b a g f a g f e d1
+g,16 a b c d e f g a g f e f c d e d1
 
  \bar "||" \break
   }
@@ -79,16 +79,16 @@ b,16 c d e f g a b c b a g a e f g f1
   \relative c''' { 
    
   \time 4/2
- a2 g4 f4 e1 \bar "||"
- a4 f g a e1
- r8 a g4. f4. e1
- a,4. b8 c d e f e1
- a8 g f a g f g a e1
- a8 f16 g a8 e16 f g8 d16 e f8. f16 e1
- a4. e8 f g f4 e1
- a,16 g a b a8 b c d e f e1
- a16 g f a g f b a g f g e b' a g f e1
- a16 g f g a b c a b c d c b a g f e1
+ g2 f4 e4 d1 \bar "||"
+ g4 e f g d1
+ r8 g f4. e4. d1
+ g,4. a8 b c d e d1
+ g8 f e g f e f g d1
+ g8 e16 f g8 d16 e f8 c16 d e8. e16 d1
+ g4. d8 e f e4 d1
+ g,16 f g a g8 a b c d e d1
+ g16 f e g f e a g f e f d a' g f e d1
+ g16 f e f g a b g a b c b a g f e d1
  \bar "||" \break
   }
  
@@ -113,18 +113,18 @@ b,16 c d e f g a b c b a g a e f g f1
 }
 \score {
   \new Staff \with { instrumentName = #"VII" }
-  \relative c'' { 
+  \relative c''' { 
    
   \time 4/2
-  f2. e8 d c1 \bar "||"
-  f4 e f8 e d4 c1
-  f4. f e8 d c1
-  f8. e8 d c b c d8. c1
-  f8 c d e f b, c d c1
-  f8 e16 f g8 f e d16 e f8 e16 d c1
-  f8 e16 f g f e d g8 f e d c1
-  f16 g a f g f e d e f g f g f e d c1
-  f16 g a d, e f d e f g a f g f e d c1
+  g2. f8 e d1 \bar "||"
+  g4 f g8 f e4 d1
+  g4. g f8 e d1
+  g8. f8 e d c d e8. d1
+  g8 d e f g c, d e d1
+  g8 f16 g a8 g f e16 f g8 f16 e d1
+  g8 f16 g a g f e a8 g f e d1
+  g16 a b g a g f e f g a g a g f e d1
+  g16 a b e, f g e f g a b g a g f e d1
  \bar "||" \break
   }
  
@@ -134,33 +134,33 @@ b,16 c d e f g a b c b a g a e f g f1
   \relative c'' { 
    
   \time 4/2
-  e2 a, b1 \bar "||"
-  e4 d g, a b1
-  e4. d8 g, a4. b1
-  e4 d8 g, a b c a b1
-  e8 d b c d c b a b1
-  e8 a, b16 a b c d8 c c b16 a b1
-  e16 d e f g e f g a8 f g a g1
-  e16 f g a g e f g a g a b c b c a b1
-  e16 d c b a g f e a g f e d c b a b1
+  g'2 c, d1 \bar "||"
+  g4 f b, c d1
+  g4. f8 b, c4. d1
+  g4 f8 b, c d e c d1
+  g8 f d e f e d c d1
+  g8 c, d16 c d e f8 e e d16 c d1
+  g16 f g a b g a b c8 a b c b1
+  g16 a b c b g a b c b c d e d e c d1
+  g16 f e d c b a g c b a g f e d c d1
  \bar "||" \break
   }
  
 }
 \score {
   \new Staff \with { instrumentName = #"IX" }
-  \relative c'' { 
+  \relative c''' { 
    
   \time 4/2
- d2 e a,1   \bar "||"
- d4 c d e a,1
- d4 f8. e d8 e4 a,1
- d8 c d f e d e4 a,1
- d8 e f e d c d e a,1
- r8 d8 c b16 c d8 c16 d e8. e16 a,1
- d16 c d e f8 e d16 c d e d8 e a,1
- d'16 c b a g f e d b' a g f e d c b a1
- d16 e f g a b c d e, f g a b c d e a,1
+ g2 a d,1   \bar "||"
+ g4 f g a d,1
+ g4 b8. a g8 a4 d,1
+ g8 f g b a g a4 d,1
+ g8 a b a g f g a d,1
+ r8 g8 f e16 f g8 f16 g a8. a16 d,1
+ g16 f g a b8 a g16 f g a g8 a d,1
+ g'16 f e d c b a g e' d c b a g f e d1
+ g16 a b c d e f g a, b c d e f g a d,1
  \bar "||" \break
   }
  
@@ -170,15 +170,15 @@ b,16 c d e f g a b c b a g a e f g f1
   \relative c'' { 
    
   \time 4/2
- c2 b4 a g1  \bar "||"
- c4 c' b a g1
- c,4. b'4. a4 g1
- c,8 d e4 d8 c b a g1
- c8 b a e' d c b a g1
- c8 b16 c b8 a16 g a8 g a4 g1
- c8 a b16 a b c d8 c d16 c b a g1
- c16 b c d e f g a b c d c d c b a g1
- c16 b a g c b a g f e d c d c b a g1
+ g'2 f4 e d1  \bar "||"
+ g4 g' f e d1
+ g,4. f'4. e4 d1
+ g,8 a b4 a8 g f e d1
+ g8 f e b' a g f e d1
+ g8 f16 g f8 e16 d e8 d e4 d1
+ g8 e f16 e f g a8 g a16 g f e d1
+ g16 f g a b c d e f g a g a g f e d1
+ g16 f e d g f e d c b a g a g f e d1
  
  \bar "||" \break
   }

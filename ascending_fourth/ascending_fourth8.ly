@@ -1,7 +1,7 @@
 \version "2.18.2"
 \score {
   \new Staff \with { instrumentName = #"I" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g2 a4 b4 c1 \bar "||"
@@ -19,7 +19,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"II" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g2 b c1 \bar "||"
@@ -37,7 +37,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"III" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g2. a8 b c1 \bar "||"
@@ -55,7 +55,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"IV" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g2 a4 b c1 \bar "||"
@@ -73,7 +73,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"V" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g2 a4 b c1 \bar "||"
@@ -91,7 +91,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"VI" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g2 b c1 \bar "||"
@@ -110,7 +110,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"VII" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g2 a4 b c1\bar "||"
@@ -128,7 +128,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"VIII" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g2 b c1 \bar "||"
@@ -146,7 +146,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"IX" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
     g2. a8 b c1 \bar "||"
@@ -164,7 +164,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"X" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
    g2 a4 b c1 \bar "||"
@@ -179,4 +179,10 @@
  \bar "||" \break
   }
  
+}
+\layout{
+  \context{
+    \Staff
+    \consists "Ambitus_engraver"
+  }
 }
