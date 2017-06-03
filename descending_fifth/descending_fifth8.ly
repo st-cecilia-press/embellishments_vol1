@@ -1,7 +1,7 @@
 \version "2.18.2"
 \score {
   \new Staff \with { instrumentName = #"I" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
  g4 f e d c1  \bar "||"
@@ -11,15 +11,14 @@
  f,8 g f g a b c d c1
  g'16 f e f g8 e16 f g8 f e d c1
  g'16 f e f g8 f g f g16 f e d c1
- g16 a b c d e f e d c b a g f e d c1
- g'16 e f g a b c d e f g f g f e d c1
+
  \bar "||" \break
   }
  
 }
 \score {
   \new Staff \with { instrumentName = #"II" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g4 f e d c1 \bar "||"
@@ -29,8 +28,7 @@
   g'8 a f g e f e d c1
   g'8 f e d e d16 c d8. d16 c1
   g'8 f16 e f8 e g f g16 f e d c1
-  g16 a b c b a b c d e, f g a b c d c1
-  g16 f g a b a b c d c d b c b c d c1
+
   
  \bar "||" \break
   }
@@ -38,7 +36,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"III" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
  g4 f e d c1  \bar "||"
@@ -48,7 +46,7 @@
  g'8 f e a g f e d c1
  g'8 f f e16 d e8 d16 e d8. d16 c1
  g'8 f g16 f e d e8 g,16 a b c d8 c1
- g'16 f e d c b a g f e f g a b c d c1
+
  g'16 f e d g f e d f g a b g f e d c1
  \bar "||" \break
   }
@@ -56,7 +54,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"IV" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g4 f e d c1 \bar "||"
@@ -74,7 +72,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"V" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
  g4 f e d c1  \bar "||"
@@ -92,7 +90,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"VI" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g4 f e d c1 \bar "||"
@@ -110,7 +108,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"VII" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g4 f e d c1 \bar "||"
@@ -129,7 +127,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"VIII" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
   g4 f e d c1 \bar "||"
@@ -147,7 +145,7 @@
 }
 \score {
   \new Staff \with { instrumentName = #"IX" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 4/2
  g4 f e d c1  \bar "||"
@@ -164,9 +162,4 @@
  
 }
 
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}
+
