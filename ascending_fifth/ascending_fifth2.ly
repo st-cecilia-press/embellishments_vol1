@@ -65,7 +65,7 @@
   f,16 e d e f8 g a8. g16 a b8. c1
   f,8 g16 f g a f8 g a16 g a b a8 c1
   f,16 e d c d e f g a g f e f g a b c1
-  f16 e f e d e f e d c b a f g a b c1
+  
  \bar "||" \break
   }
  
@@ -77,7 +77,7 @@
   \time 4/2
   f4 g a b c1 \bar "||"
   r8 f,8 g4 r8 a8 b4 c1
-  f,4 f'4 e8 d c b c1
+  
   f,8 g a b c g a b c1
   f,8 g a e f g a b c1
   f,16 g a b a8 b c a b a16 b c1
@@ -162,9 +162,4 @@
  
 }
 
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}
+

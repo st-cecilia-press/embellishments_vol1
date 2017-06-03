@@ -152,7 +152,7 @@
   e4 f g a b1 \bar "||"
  e,4. f4. g8 a b1
  r8 d, e4. f8 g a b1
- e,8 f g a e, f g a b1
+
  e8 g f e d c b a b1
  d8 e c16 d e8 e f g a b1
  e,8 d16 e f g a f g8 f16 g a b g a b1
@@ -163,9 +163,4 @@
  
 }
 
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}
+
