@@ -157,3 +157,10 @@
   }
  
 }
+
+\layout{
+  \context{
+    \Staff
+    \consists "Ambitus_engraver"
+  }
+}
