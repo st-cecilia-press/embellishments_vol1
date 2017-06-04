@@ -28,7 +28,7 @@
   d16 e f e d e f d e d e f g f g a b a b c d 
   c b c d e f e d e f d e\breve
   d,16 c d e f e f g f d e f g f g e
-  f e f e f e d c d c d c d c b c d\breve
+  f e f e f e d c e d e d e d c d e\breve
  \bar "||" \break
   }
  

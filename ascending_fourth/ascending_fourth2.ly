@@ -10,9 +10,7 @@
   f4. g8 a b c a b1
   f8 g a b a b c a b1
   f8 g a f g b a g16 a b1
-  f16 g a b c8 d e f g a b1
-  f,16 g a b c d e d e d c b a b c a b1
-  f16 g a b c b c d e d e f g f g a b1
+
  \bar "||" \break
   }
  
@@ -28,8 +26,7 @@
     f4 a8 g a b b a b1
     f8 g a b c f, g a b1
     f8. g16 a8. b16 c b8. g16 a8. b1
-    f'16 e d e f8 e d c b a b1
-    f'16 e f e f e d e f16 e d c d c b a b1
+
     f16 e f g a g a b c g a b e, f g a b1
  \bar "||" \break
   }
@@ -46,9 +43,8 @@
   f4. g8 a8 b g a b1
   f8 e f d e f g a b1
   f8 e d16 e f8 d g f16 g a8 b1
-  f16 e f g a b c d e8 f g a b1
-  f,16 e f g a b c d e f g a b f g a b1
-  f,16 e f g f d g f d e f g a f g a b1
+  
+  f16 e f g f d g f d e f g a f g a b1
  \bar "||" \break
   }
  
@@ -65,8 +61,7 @@
   f8 g a b a g a f b1
   r8 f g f16 g a4 f b1
   f16 e f g a8 f g b a g16 f b1
-  f16 g a b c d e f f, e f g a b c a b1
-  f16 d e f g d e f g g' f e d c b a b1
+ 
  \bar "||" \break
   }
  
@@ -79,11 +74,11 @@
     f2 g4 a b1 \bar "||"
    f4 a g f b1
    f8 g a4 g4. f8 b1
-   f'4. e8 d c b a b1
+  
    f8 g a b g f g a b1
    f8 g a b g f16 g f8 g16 a b1
    f16 e f g a g a b g8 f g a b1
-   f'16 e d c b a g f e d c d e f g a b1
+  
    f16 e d e f g a f g a b g a b c a b1
  \bar "||" \break
   }
@@ -101,8 +96,8 @@
   f8 e d c d c b a b1
   f'8 e16 f e8 d d' c b a16 b b1
   f16 e d c d8 c d c b a b1
-  f''16 e f e f e d c d c d c d c b a b1
-  f16 g a f g a f g a g f e d c b a b1
+ 
+  f'16 g a f g a f g a g f e d c b a b1
   
  \bar "||" \break
   }
@@ -173,16 +168,9 @@
   f'4. d8 e f g a b1
   f8 b, c d e f g a b1
   f8. g16 f8 e16 f g8 f16 g a8. a16 b1
-  f4 f,16 e f g a b c d e f g a b1
-  a16 g f e f e b a b a g f e f g a b1
-  f'16 g a f g f e f g a b g a b g a b1
+ 
  \bar "||" \break
   }
  
 }
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}
+

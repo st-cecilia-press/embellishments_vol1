@@ -173,16 +173,10 @@
   f'4. d8 e f g a b1
   f8 b, c d e f g a b1
   f8. g16 f8 e16 f g8 f16 g a8. a16 b1
-  f4 f,16 e f g a b c d e f g a b1
-  a16 g f e f e b a b a g f e f g a b1
-  f'16 g a f g f e f g a b g a b g a b1
+  
+  f16 g a f g f e f g a b g a b g a b1
  \bar "||" \break
   }
  
 }
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}
+

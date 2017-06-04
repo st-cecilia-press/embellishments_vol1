@@ -8,10 +8,7 @@
   f4 g e d d c e d e\breve
   f8 d e f e d b c d e f e d c e d e\breve
   f8 d e16 d e f e4 c8 d c16 d e4 c16 d e8 d e16 d c d e\breve
-  f16 g a b c d e f e8 e,16 d e f g a 
-  b c d e f e f d e d e d e d c d e\breve
-  f,16 e f c d e f d e f g a b c d e 
-  f e f e f e d c e d e d e d c d e\breve
+
  \bar "||" \break
   }
  
@@ -23,12 +20,11 @@
   \time 8/2
   d2 e1 d2 e\breve \bar "||"
   d4 e e e d c e d e\breve
-  d8 e f d e d e f g a b c d e f d e\breve
-  d,8 e f d e f g f f e d c e16 d e d e d c d e\breve
-  d16 e f e d e f d e d e f g f g a b a b c d 
-  c b c d e f e d e f d e\breve
+  
+  d8 e f d e f g f f e d c e16 d e d e d c d e\breve
+ 
   d,16 c d e f e f g f d e f g f g e
-  f e f e f e d c d c d c d c b c d\breve
+  f e f e f e d c e d e d e d c d e\breve
  \bar "||" \break
   }
  
@@ -58,10 +54,7 @@
   b4 c e d d c e d e\breve
   b8 c d b e c g' e a g f e d c e d e\breve
   b16 a b c d8 b e d c16 d e8 f e d c e d e16 d c d e\breve
-  b'16 a g f e d c b e d c b a b c d e f g a b c d e
-  d c b a g f e d e\breve
-  b16 c d b c d c b e f g a b c d e e, d c 
-  b c d e c e d e d e d c d e\breve
+
  \bar "||" \break
   }
  
@@ -158,9 +151,4 @@
  
 }
 
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}
+

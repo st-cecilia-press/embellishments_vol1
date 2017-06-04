@@ -183,9 +183,3 @@ e16 d c b c d e f g f e d f e d c b1
  
 }
 
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}

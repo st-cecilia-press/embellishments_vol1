@@ -4,64 +4,64 @@
   \relative c'' { 
    
   \time 8/2
-  f2 e1 d2 e\breve \bar "||"
-  f4 g e d d c e d e\breve
-  f8 d e f e d b c d e f e d c e d e\breve
-  f8 d e16 d e f e4 c8 d c16 d e4 c16 d e8 d e16 d c d e\breve
-  f16 g a b c d e f e8 e,16 d e f g a 
-  b c d e f e f d e d e d e d c d e\breve
-  f,16 e f c d e f d e f g a b c d e 
-  f e f e f e d c e d e d e d c d e\breve
+  a2 g1 f2 g\breve \bar "||"
+  a4 b g f f e g f g\breve
+  a8 f g a g f d e f g a g f e g f g\breve
+  a8 f g16 f g a g4 e8 f e16 f g4 e16 f g8 f g16 f e f g\breve
+  a16 b c d e f g a g8 g,16 f g a b c 
+  d e f g a g a f g f g f g f e f g\breve
+  a,16 g a e f g a f g a b c d e f g 
+  a g a g a g f e g f g f g f e f g\breve
  \bar "||" \break
   }
  
 }
 \score {
   \new Staff \with { instrumentName = #"II" }
-  \relative c'' { 
+  \relative c' { 
    
   \time 8/2
-  d2 e1 d2 e\breve \bar "||"
-  d4 e e e d c e d e\breve
-  d8 e f d e d e f g a b c d e f d e\breve
-  d,8 e f d e f g f f e d c e16 d e d e d c d e\breve
-  d16 e f e d e f d e d e f g f g a b a b c d 
-  c b c d e f e d e f d e\breve
-  d,16 c d e f e f g f d e f g f g e
-  f e f e f e d c d c d c d c b c d\breve
+  f2 g1 f2 g\breve \bar "||"
+  f4 g g g f e g f g\breve
+  f8 g a f g f g a b c d e f g a f g\breve
+  f,8 g a f g a b a a g f e g16 f g f g f e f g\breve
+  f16 g a g f g a f g f g a b a b c d c d e f 
+  e d e f g a g f g a f g\breve
+  f,16 e f g a g a b a f g a b a b g
+  a g a g a g f e g f g f g f e f g\breve
  \bar "||" \break
   }
  
 }
 \score {
   \new Staff \with { instrumentName = #"III" }
-  \relative c''' { 
+  \relative c'' { 
    
   \time 8/2
-  g2 e1 d2 e\breve \bar "||"
-  g4 e f e e b c d e\breve
-  g8 f e d c d e f e f g e f e f d e\breve
-  g8 f g16 f e d e8 d e16 d e f e8 f g a a, b c d e\breve
-  g16 f g a g e f g e d e f g f e d e d c b c b a  g a g a b c b c d e\breve
-  g16 f e d e d c b c b c d e d e f 
-  e d e f g e f d e d e d e d c d e\breve
+  b2 g1 f2 g\breve \bar "||"
+  b4 g a g g d e f g\breve
+  b8 a g f e f g a g a b g a g a f g\breve
+  b8 a b16 a g f g8 f g16 f g a g8 a b c c, d e f g\breve
+  b16 a b c b g a b g f g a b a g f g f e d e d c  b c b c d e d e f g\breve
+  b16 a g f g f e d e d e f g f g a 
+  g f g a b g a f g f g f g f e f g\breve
  \bar "||" \break
   }
  
 }
 \score {
   \new Staff \with { instrumentName = #"IV" }
-  \relative c'' { 
+  \relative c' { 
    
   \time 8/2
-  b2 e1 d2 e\breve \bar "||"
-  b4 c e d d c e d e\breve
-  b8 c d b e c g' e a g f e d c e d e\breve
-  b16 a b c d8 b e d c16 d e8 f e d c e d e16 d c d e\breve
-  b'16 a g f e d c b e d c b a b c d e f g a b c d e
-  d c b a g f e d e\breve
-  b16 c d b c d c b e f g a b c d e e, d c 
-  b c d e c e d e d e d c d e\breve
+  d2 g1 f2 g\breve \bar "||"
+  d4 e g f f e g f g\breve
+  d8 e f d g e b' g c b a g f e g f g\breve
+  d16 c d e f8 d g f e16 f g8 a g f e g f g16 f e f g\breve
+  d'16 c b a g f e d g f e d c d e f g a b c d e f g
+  f e d c b a g f g\breve
+  d16 e f d e f e d g a b c d e f g g, f e 
+  d e f g e g f g f g f e f g\breve
  \bar "||" \break
   }
  
@@ -71,13 +71,13 @@
   \relative c'' { 
    
   \time 8/2
-  f2 e2. c4 d2 e\breve \bar "||"
-  f4 e4 f e e b c d e\breve
-  f8 d e f e d e c d e f e d c e d e\breve
-  f8 c d c16 d e8 b c d e f c b16 c d8 e d c16 d e\breve
-  f16 e d c b a g f e f g a b c d e f e d c f e d c 
-  e d e d e d c d e\breve
-  f8 d e16 d e f e d c d e8 c d e f e f16 e d c e8 d e\breve
+  a2 g2. e4 f2 g\breve \bar "||"
+  a4 g4 a g g d e f g\breve
+  a8 f g a g f g e f g a g f e g f g\breve
+  a8 e f e16 f g8 d e f g a e d16 e f8 g f e16 f g\breve
+  a16 g f e d c b a g a b c d e f g a g f e a g f e 
+  g f g f g f e f g\breve
+  a8 f g16 f g a g f e f g8 e f g a g a16 g f e g8 f g\breve
  \bar "||" \break
   }
  
@@ -87,12 +87,12 @@
   \relative c'' { 
   
   \time 8/2
-    f2 e1 d2 e\breve \bar "||"
-    f4 e e d c b e d e\breve
-    f8 e16 f e4 e d8 c16 b e8 d c b e d d c16 d e\breve
-    f8 d e f e d e16 d c b f'8 e e d e d e16 d c d e\breve
-    f,16 e f g a b c d e b c d e d e f e f e, f g a b c d e f, g a b c d e\breve
-    f16 d e f e d e f e b c d e e, f g a b c d e f d e f d e d e d c d e\breve
+    a2 g1 f2 g\breve \bar "||"
+    a4 g g f e d g f g\breve
+    a8 g16 a g4 g f8 e16 d g8 f e d g f f e16 f g\breve
+    a8 f g a g f g16 f e d a'8 g g f g f g16 f e f g\breve
+    a,16 g a b c d e f g d e f g f g a g a g, a b c d e f g a, b c d e f g\breve
+    a16 f g a g f g a g d e f g g, a b c d e f g a f g a f g f g f e f g\breve
  \bar "||" \break
   }
  
@@ -102,27 +102,27 @@
   \relative c'' { 
    
   \time 8/2
-  f2 e1 d2 e\breve \bar "||"
-  f4 d f e d c e d e\breve
-  f8 e f g f4 d f8 e d c e4 d e\breve
-  f8 e f e16 f e8 d16 c b a g f e8 f16 g a b c d e8 d16 e d8 c16 d e\breve
-  f8 e g16 f e d e8 d16 c b a g f e8 f16 g a b c d e d e d e d c d e\breve
-  f16 e g f e d e f e d c d e f g e f e d c d c b a b a g f g f e d e\breve
+  a2 g1 f2 g\breve \bar "||"
+  a4 f a g f e g f g\breve
+  a8 g a b a4 f a8 g f e g4 f g\breve
+  a8 g a g16 a g8 f16 e d c b a g8 a16 b c d e f g8 f16 g f8 e16 f g\breve
+  a8 g b16 a g f g8 f16 e d c b a g8 a16 b c d e f g f g f g f e f g\breve
+  a16 g b a g f g a g f e f g a b g a g f e f e d c d c b a b a g f g\breve
  \bar "||" \break
   }
  
 }
 \score {
   \new Staff \with { instrumentName = #"VIII" }
-  \relative c'' { 
+  \relative c' { 
    
   \time 8/2
-  b2 e1 d2 e\breve \bar "||"
-  b4 d f e d c e d e\breve
-  b8 c d b e g f e d c b a g f e d e\breve
-  b'8 c d b e c d c16 d e8 d c b16 c d8 e d  b16 d e\breve
-  b16 c d c d e f g e d e f e d c e f g f e f e d c e d e d e d c d e\breve
-  b16 c d e d e f g f e d c e d c b e f g f f e d c e d e d e d c d e\breve
+  d2 g1 f2 g\breve \bar "||"
+  d4 f a g f e g f g\breve
+  d8 e f d g b a g f e d c b a g f g\breve
+  d'8 e f d g e f e16 f g8 f e d16 e f8 g f  d16 f g\breve
+  d16 e f e f g a b g f g a g f e g a b a g a g f e g f g f g f e f g\breve
+  d16 e f g f g a b a g f e g f e d g a b a a g f e g f g f g f e f g\breve
  \bar "||" \break
   }
  
@@ -132,35 +132,30 @@
   \relative c'' { 
    
   \time 8/2
- e2 e2. c4 d2 e\breve  \bar "||"
- e4 d e f d e c d e\breve
- e8. c8 d8. e8 d8. e8. e d c d8 e8. d8 e\breve
- e8 b c d e d e16 d c d e8 c f e e d e16 d c d e\breve
- e16 d c d e8 d e16 d e d c d e8 d,16 c d c b a b c d e f g a b c d e\breve
- e16 d c b a g f e e' d e d e d c d e d c b c d e c e d c b a b c d e\breve
+ g2 g2. e4 f2 g\breve  \bar "||"
+ g4 f g a f g e f g\breve
+ g8. e8 f8. g8 f8. g8. g f e f8 g8. f8 g\breve
+ g8 d e f g f g16 f e f g8 e a g g f g16 f e f g\breve
+
+ g16 f e d c b a g g' f g f g f e f g f e d e f g e g f e d c d e f g\breve
  \bar "||" \break
   }
  
 }
 \score {
   \new Staff \with { instrumentName = #"X" }
-  \relative c'' { 
+  \relative c' { 
    
   \time 8/2
-  d2 e2. c4 d2 e\breve \bar "||"
-  d4 b c d e c e d e\breve
-  d8 b c d e c d e f e d c e d e16 d c d e\breve
-  d8 b c8. d16 e8. b16 c8 d8 e8. d8 e8. d c16 d8 c16 d e\breve
-  d8 e16 d e d c d e8 f16 e f16 e d c b a b c d e f e d c e d e d c d e\breve
-  d16 c b a d b c d e d c b e c d e f e d c b e d c e d e d e d c d e\breve
+  f2 g2. e4 f2 g\breve \bar "||"
+  f4 d e f g e g f g\breve
+  f8 d e f g e f g a g f e g f g16 f e f g\breve
+  f8 d e8. f16 g8. d16 e8 f8 g8. f8 g8. f e16 f8 e16 f g\breve
+  f8 g16 f g f e f g8 a16 g a16 g f e d c d e f g a g f e g f g f e f g\breve
+  f16 e d c f d e f g f e d g e f g a g f e d g f e g f g f g f e f g\breve
  \bar "||" \break
   }
  
 }
 
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}
+

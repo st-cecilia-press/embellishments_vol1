@@ -121,7 +121,7 @@
     e'8 d16 e d8 e f g g f16 g a1
     e16 d e f g8 f g e f g a1
     e16 d e f g f g f g f e d c b a g a1
-    e16 f g f g a b c d e f g a b f g a1
+   
  \bar "||" \break
   }
  
@@ -138,7 +138,7 @@
   e8 f g a g e f g a1
   e8. f16 g8. a16 b e,8. f8. g16 a1
   e8 f g16 f g a b8 e,16 d e f g8 a1
-  e,16 f g a b a b c d c d e f e f g a1
+  
   e16 d c b b' a g f g f e d c b a g a1
  \bar "||" \break
   }
@@ -151,7 +151,7 @@
   \time 4/2
     e2. f8 g a1 \bar "||"
     e4 d c b a1
-    e'4. e,8 a4. g8 a1
+    
     e'4 g8 f d e f g a1
     e8 d e f d e f g a1
     e8. d16 e8 d16 e f8 d16 e f8 g a1
@@ -168,21 +168,14 @@
    
   \time 4/2
    e2 f4 g a1 \bar "||"
-  e4 e, f g a1
-  e'8 e, f4. g4. a1 
-  e'4. c8 d e f g a1
+   
+  e4. c8 d e f g a1
   e8 a, b c d e f g a1
   e8. f16 e8 d16 e f8 e16 f g8. g16 a1
-  e4 e,16 d e f g a b c d e f g a1
-  g16 f e d e d a g a g f e d e f g a1
-  e'16 f g e f e d e f g a f g a f g a1
+
+  e16 f g e f e d e f g a f g a f g a1
  \bar "||" \break
   }
  
 }
-\layout{
-  \context{
-    \Staff
-    \consists "Ambitus_engraver"
-  }
-}
+
