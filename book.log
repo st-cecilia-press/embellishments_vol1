@@ -1,0 +1,3016 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.6.4)  4 JUN 2017 20:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**book.tex
+(./book.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 4 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count91
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks15
+\c@AM@survey=\count92
+\AM@templatesizebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
+\c@tracingmulticols=\count93
+\mult@box=\box28
+\multicol@leftmargin=\dimen107
+\c@unbalance=\count94
+\c@collectmore=\count95
+\doublecol@number=\count96
+\multicoltolerance=\count97
+\multicolpretolerance=\count98
+\full@width=\dimen108
+\page@free=\dimen109
+\premulticols=\dimen110
+\postmulticols=\dimen111
+\multicolsep=\skip55
+\multicolbaselineskip=\skip56
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen112
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count99
+\c@finalcolumnbadness=\count100
+\last@try=\dimen113
+\multicolovershoot=\dimen114
+\multicolundershoot=\dimen115
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count101
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen116
+\Gm@wd@mp=\dimen117
+\Gm@odd@mp=\dimen118
+\Gm@even@mp=\dimen119
+\Gm@layoutwidth=\dimen120
+\Gm@layoutheight=\dimen121
+\Gm@layouthoffset=\dimen122
+\Gm@layoutvoffset=\dimen123
+\Gm@dimlist=\toks18
+) (./book.aux
+(./booktoc.aux))
+\openout1 = `book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+\AtBeginShipoutBox=\box54
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen124
+\scratchbox=\box55
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen125
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(48.0pt, 518.295pt, 48.0pt)
+* v-part:(T,H,B)=(48.0pt, 698.96999pt, 48.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=518.295pt
+* \textheight=698.96999pt
+* \oddsidemargin=-24.26999pt
+* \evensidemargin=-24.26999pt
+* \topmargin=-54.26999pt
+* \headheight=18.0pt
+* \headsep=12.0pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `booktoc.aux'.
+
+ (./booktoc.tex) [2
+
+
+]
+<./unison.pdf, id=15, 614.295pt x 794.97pt>
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf>
+Package pdftex.def Info: ./unison.pdf used on input line 53.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf>
+Package pdftex.def Info: ./unison.pdf used on input line 53.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+ <./unison.pdf, id=18, page=1, 614.295pt x 794.97pt>
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf, page 1>
+Package pdftex.def Info: ./unison.pdf, page1 used on input line 53.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 1>
+Package pdftex.def Info: ./unison.pdf, page1 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf, page 1>
+Package pdftex.def Info: ./unison.pdf, page1 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 1>
+Package pdftex.def Info: ./unison.pdf, page1 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf, page 1>
+Package pdftex.def Info: ./unison.pdf, page1 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [1
+
+ <./unison.pdf>]
+<./unison.pdf, id=36, page=2, 614.295pt x 794.97pt>
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 2>
+Package pdftex.def Info: ./unison.pdf, page2 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf, page 2>
+Package pdftex.def Info: ./unison.pdf, page2 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 2>
+Package pdftex.def Info: ./unison.pdf, page2 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [2 <./unison.pdf>]
+<./unison.pdf, id=40, page=3, 614.295pt x 794.97pt>
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 3>
+Package pdftex.def Info: ./unison.pdf, page3 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf, page 3>
+Package pdftex.def Info: ./unison.pdf, page3 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 3>
+Package pdftex.def Info: ./unison.pdf, page3 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [3 <./unison.pdf>]
+<./unison.pdf, id=44, page=4, 614.295pt x 794.97pt>
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 4>
+Package pdftex.def Info: ./unison.pdf, page4 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf, page 4>
+Package pdftex.def Info: ./unison.pdf, page4 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 4>
+Package pdftex.def Info: ./unison.pdf, page4 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [4 <./unison.pdf>]
+<./unison.pdf, id=48, page=5, 614.295pt x 794.97pt>
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 5>
+Package pdftex.def Info: ./unison.pdf, page5 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf, page 5>
+Package pdftex.def Info: ./unison.pdf, page5 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 5>
+Package pdftex.def Info: ./unison.pdf, page5 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [5 <./unison.pdf>]
+<./unison.pdf, id=53, page=6, 614.295pt x 794.97pt>
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 6>
+Package pdftex.def Info: ./unison.pdf, page6 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf, page 6>
+Package pdftex.def Info: ./unison.pdf, page6 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 6>
+Package pdftex.def Info: ./unison.pdf, page6 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [6 <./unison.pdf>]
+<./unison.pdf, id=57, page=7, 614.295pt x 794.97pt>
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 7>
+Package pdftex.def Info: ./unison.pdf, page7 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+
+<use ./unison.pdf, page 7>
+Package pdftex.def Info: ./unison.pdf, page7 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./unison.pdf Graphic file (type pdf)
+ <use ./unison.pdf, page 7>
+Package pdftex.def Info: ./unison.pdf, page7 used on input line 53.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [7 <./unison.pdf>]
+<./ascending_second.pdf, id=61, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf>
+Package pdftex.def Info: ./ascending_second.pdf used on input line 56.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf>
+Package pdftex.def Info: ./ascending_second.pdf used on input line 56.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<./ascending_second.pdf, id=64, page=1, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 1>
+Package pdftex.def Info: ./ascending_second.pdf, page1 used on input line 56.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 1>
+Package pdftex.def Info: ./ascending_second.pdf, page1 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 1>
+Package pdftex.def Info: ./ascending_second.pdf, page1 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 1>
+Package pdftex.def Info: ./ascending_second.pdf, page1 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 1>
+Package pdftex.def Info: ./ascending_second.pdf, page1 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [8 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=78, page=2, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 2>
+Package pdftex.def Info: ./ascending_second.pdf, page2 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 2>
+Package pdftex.def Info: ./ascending_second.pdf, page2 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 2>
+Package pdftex.def Info: ./ascending_second.pdf, page2 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [9 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=82, page=3, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 3>
+Package pdftex.def Info: ./ascending_second.pdf, page3 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 3>
+Package pdftex.def Info: ./ascending_second.pdf, page3 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 3>
+Package pdftex.def Info: ./ascending_second.pdf, page3 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [10 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=86, page=4, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 4>
+Package pdftex.def Info: ./ascending_second.pdf, page4 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 4>
+Package pdftex.def Info: ./ascending_second.pdf, page4 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 4>
+Package pdftex.def Info: ./ascending_second.pdf, page4 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [11 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=91, page=5, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 5>
+Package pdftex.def Info: ./ascending_second.pdf, page5 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 5>
+Package pdftex.def Info: ./ascending_second.pdf, page5 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 5>
+Package pdftex.def Info: ./ascending_second.pdf, page5 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [12 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=95, page=6, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 6>
+Package pdftex.def Info: ./ascending_second.pdf, page6 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 6>
+Package pdftex.def Info: ./ascending_second.pdf, page6 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 6>
+Package pdftex.def Info: ./ascending_second.pdf, page6 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [13 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=99, page=7, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 7>
+Package pdftex.def Info: ./ascending_second.pdf, page7 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 7>
+Package pdftex.def Info: ./ascending_second.pdf, page7 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 7>
+Package pdftex.def Info: ./ascending_second.pdf, page7 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [14 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=103, page=8, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 8>
+Package pdftex.def Info: ./ascending_second.pdf, page8 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 8>
+Package pdftex.def Info: ./ascending_second.pdf, page8 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 8>
+Package pdftex.def Info: ./ascending_second.pdf, page8 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [15 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=107, page=9, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 9>
+Package pdftex.def Info: ./ascending_second.pdf, page9 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 9>
+Package pdftex.def Info: ./ascending_second.pdf, page9 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 9>
+Package pdftex.def Info: ./ascending_second.pdf, page9 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [16 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=111, page=10, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 10>
+Package pdftex.def Info: ./ascending_second.pdf, page10 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 10>
+Package pdftex.def Info: ./ascending_second.pdf, page10 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 10>
+Package pdftex.def Info: ./ascending_second.pdf, page10 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [17 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=116, page=11, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 11>
+Package pdftex.def Info: ./ascending_second.pdf, page11 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 11>
+Package pdftex.def Info: ./ascending_second.pdf, page11 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 11>
+Package pdftex.def Info: ./ascending_second.pdf, page11 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [18 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=120, page=12, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 12>
+Package pdftex.def Info: ./ascending_second.pdf, page12 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 12>
+Package pdftex.def Info: ./ascending_second.pdf, page12 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 12>
+Package pdftex.def Info: ./ascending_second.pdf, page12 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [19 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=124, page=13, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 13>
+Package pdftex.def Info: ./ascending_second.pdf, page13 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 13>
+Package pdftex.def Info: ./ascending_second.pdf, page13 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 13>
+Package pdftex.def Info: ./ascending_second.pdf, page13 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [20 <./ascending_second.pdf>]
+<./ascending_second.pdf, id=128, page=14, 614.295pt x 794.97pt>
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 14>
+Package pdftex.def Info: ./ascending_second.pdf, page14 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+ <use ./ascending_second.pdf, page 14>
+Package pdftex.def Info: ./ascending_second.pdf, page14 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_second.pdf Graphic file (type pdf)
+
+<use ./ascending_second.pdf, page 14>
+Package pdftex.def Info: ./ascending_second.pdf, page14 used on input line 56.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [21 <./ascending_second.pdf>]
+<./descending_second.pdf, id=132, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf>
+Package pdftex.def Info: ./descending_second.pdf used on input line 59.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf>
+Package pdftex.def Info: ./descending_second.pdf used on input line 59.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<./descending_second.pdf, id=135, page=1, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 1>
+Package pdftex.def Info: ./descending_second.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 1>
+Package pdftex.def Info: ./descending_second.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 1>
+Package pdftex.def Info: ./descending_second.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 1>
+Package pdftex.def Info: ./descending_second.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 1>
+Package pdftex.def Info: ./descending_second.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [22 <./descending_second.pdf>]
+<./descending_second.pdf, id=149, page=2, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 2>
+Package pdftex.def Info: ./descending_second.pdf, page2 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 2>
+Package pdftex.def Info: ./descending_second.pdf, page2 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 2>
+Package pdftex.def Info: ./descending_second.pdf, page2 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [23 <./descending_second.pdf>]
+<./descending_second.pdf, id=154, page=3, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 3>
+Package pdftex.def Info: ./descending_second.pdf, page3 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 3>
+Package pdftex.def Info: ./descending_second.pdf, page3 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 3>
+Package pdftex.def Info: ./descending_second.pdf, page3 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [24 <./descending_second.pdf>]
+<./descending_second.pdf, id=158, page=4, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 4>
+Package pdftex.def Info: ./descending_second.pdf, page4 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 4>
+Package pdftex.def Info: ./descending_second.pdf, page4 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 4>
+Package pdftex.def Info: ./descending_second.pdf, page4 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [25 <./descending_second.pdf>]
+<./descending_second.pdf, id=162, page=5, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 5>
+Package pdftex.def Info: ./descending_second.pdf, page5 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 5>
+Package pdftex.def Info: ./descending_second.pdf, page5 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 5>
+Package pdftex.def Info: ./descending_second.pdf, page5 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [26 <./descending_second.pdf>]
+<./descending_second.pdf, id=166, page=6, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 6>
+Package pdftex.def Info: ./descending_second.pdf, page6 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 6>
+Package pdftex.def Info: ./descending_second.pdf, page6 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 6>
+Package pdftex.def Info: ./descending_second.pdf, page6 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [27 <./descending_second.pdf>]
+<./descending_second.pdf, id=170, page=7, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 7>
+Package pdftex.def Info: ./descending_second.pdf, page7 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 7>
+Package pdftex.def Info: ./descending_second.pdf, page7 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 7>
+Package pdftex.def Info: ./descending_second.pdf, page7 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [28 <./descending_second.pdf>]
+<./descending_second.pdf, id=174, page=8, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 8>
+Package pdftex.def Info: ./descending_second.pdf, page8 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 8>
+Package pdftex.def Info: ./descending_second.pdf, page8 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 8>
+Package pdftex.def Info: ./descending_second.pdf, page8 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [29 <./descending_second.pdf>]
+<./descending_second.pdf, id=179, page=9, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 9>
+Package pdftex.def Info: ./descending_second.pdf, page9 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 9>
+Package pdftex.def Info: ./descending_second.pdf, page9 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 9>
+Package pdftex.def Info: ./descending_second.pdf, page9 used on input line 59.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [30 <./descending_second.pdf>]
+<./descending_second.pdf, id=183, page=10, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 10>
+Package pdftex.def Info: ./descending_second.pdf, page10 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 10>
+Package pdftex.def Info: ./descending_second.pdf, page10 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 10>
+Package pdftex.def Info: ./descending_second.pdf, page10 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [31 <./descending_second.pdf>]
+<./descending_second.pdf, id=187, page=11, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 11>
+Package pdftex.def Info: ./descending_second.pdf, page11 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 11>
+Package pdftex.def Info: ./descending_second.pdf, page11 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 11>
+Package pdftex.def Info: ./descending_second.pdf, page11 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [32 <./descending_second.pdf>]
+<./descending_second.pdf, id=191, page=12, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 12>
+Package pdftex.def Info: ./descending_second.pdf, page12 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 12>
+Package pdftex.def Info: ./descending_second.pdf, page12 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 12>
+Package pdftex.def Info: ./descending_second.pdf, page12 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [33 <./descending_second.pdf>]
+<./descending_second.pdf, id=195, page=13, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 13>
+Package pdftex.def Info: ./descending_second.pdf, page13 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 13>
+Package pdftex.def Info: ./descending_second.pdf, page13 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 13>
+Package pdftex.def Info: ./descending_second.pdf, page13 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [34 <./descending_second.pdf>]
+<./descending_second.pdf, id=199, page=14, 614.295pt x 794.97pt>
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 14>
+Package pdftex.def Info: ./descending_second.pdf, page14 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+ <use ./descending_second.pdf, page 14>
+Package pdftex.def Info: ./descending_second.pdf, page14 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_second.pdf Graphic file (type pdf)
+
+<use ./descending_second.pdf, page 14>
+Package pdftex.def Info: ./descending_second.pdf, page14 used on input line 59.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [35 <./descending_second.pdf>]
+<./ascending_third.pdf, id=205, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf>
+Package pdftex.def Info: ./ascending_third.pdf used on input line 62.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf>
+Package pdftex.def Info: ./ascending_third.pdf used on input line 62.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<./ascending_third.pdf, id=208, page=1, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 1>
+Package pdftex.def Info: ./ascending_third.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 1>
+Package pdftex.def Info: ./ascending_third.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 1>
+Package pdftex.def Info: ./ascending_third.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 1>
+Package pdftex.def Info: ./ascending_third.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 1>
+Package pdftex.def Info: ./ascending_third.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [36 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=222, page=2, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 2>
+Package pdftex.def Info: ./ascending_third.pdf, page2 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 2>
+Package pdftex.def Info: ./ascending_third.pdf, page2 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 2>
+Package pdftex.def Info: ./ascending_third.pdf, page2 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [37 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=226, page=3, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 3>
+Package pdftex.def Info: ./ascending_third.pdf, page3 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 3>
+Package pdftex.def Info: ./ascending_third.pdf, page3 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 3>
+Package pdftex.def Info: ./ascending_third.pdf, page3 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [38 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=230, page=4, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 4>
+Package pdftex.def Info: ./ascending_third.pdf, page4 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 4>
+Package pdftex.def Info: ./ascending_third.pdf, page4 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 4>
+Package pdftex.def Info: ./ascending_third.pdf, page4 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [39 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=234, page=5, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 5>
+Package pdftex.def Info: ./ascending_third.pdf, page5 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 5>
+Package pdftex.def Info: ./ascending_third.pdf, page5 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 5>
+Package pdftex.def Info: ./ascending_third.pdf, page5 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [40 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=238, page=6, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 6>
+Package pdftex.def Info: ./ascending_third.pdf, page6 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 6>
+Package pdftex.def Info: ./ascending_third.pdf, page6 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 6>
+Package pdftex.def Info: ./ascending_third.pdf, page6 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [41 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=243, page=7, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 7>
+Package pdftex.def Info: ./ascending_third.pdf, page7 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 7>
+Package pdftex.def Info: ./ascending_third.pdf, page7 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 7>
+Package pdftex.def Info: ./ascending_third.pdf, page7 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [42 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=247, page=8, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 8>
+Package pdftex.def Info: ./ascending_third.pdf, page8 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 8>
+Package pdftex.def Info: ./ascending_third.pdf, page8 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 8>
+Package pdftex.def Info: ./ascending_third.pdf, page8 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [43 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=251, page=9, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 9>
+Package pdftex.def Info: ./ascending_third.pdf, page9 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 9>
+Package pdftex.def Info: ./ascending_third.pdf, page9 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 9>
+Package pdftex.def Info: ./ascending_third.pdf, page9 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [44 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=255, page=10, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 10>
+Package pdftex.def Info: ./ascending_third.pdf, page10 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 10>
+Package pdftex.def Info: ./ascending_third.pdf, page10 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 10>
+Package pdftex.def Info: ./ascending_third.pdf, page10 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [45 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=259, page=11, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 11>
+Package pdftex.def Info: ./ascending_third.pdf, page11 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 11>
+Package pdftex.def Info: ./ascending_third.pdf, page11 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 11>
+Package pdftex.def Info: ./ascending_third.pdf, page11 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [46 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=263, page=12, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 12>
+Package pdftex.def Info: ./ascending_third.pdf, page12 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 12>
+Package pdftex.def Info: ./ascending_third.pdf, page12 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 12>
+Package pdftex.def Info: ./ascending_third.pdf, page12 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [47 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=268, page=13, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 13>
+Package pdftex.def Info: ./ascending_third.pdf, page13 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 13>
+Package pdftex.def Info: ./ascending_third.pdf, page13 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 13>
+Package pdftex.def Info: ./ascending_third.pdf, page13 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [48 <./ascending_third.pdf>]
+<./ascending_third.pdf, id=272, page=14, 614.295pt x 794.97pt>
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 14>
+Package pdftex.def Info: ./ascending_third.pdf, page14 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+ <use ./ascending_third.pdf, page 14>
+Package pdftex.def Info: ./ascending_third.pdf, page14 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_third.pdf Graphic file (type pdf)
+
+<use ./ascending_third.pdf, page 14>
+Package pdftex.def Info: ./ascending_third.pdf, page14 used on input line 62.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [49 <./ascending_third.pdf>]
+<./descending_third.pdf, id=276, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf>
+Package pdftex.def Info: ./descending_third.pdf used on input line 64.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf>
+Package pdftex.def Info: ./descending_third.pdf used on input line 64.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<./descending_third.pdf, id=279, page=1, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 1>
+Package pdftex.def Info: ./descending_third.pdf, page1 used on input line 64.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 1>
+Package pdftex.def Info: ./descending_third.pdf, page1 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 1>
+Package pdftex.def Info: ./descending_third.pdf, page1 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 1>
+Package pdftex.def Info: ./descending_third.pdf, page1 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 1>
+Package pdftex.def Info: ./descending_third.pdf, page1 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [50 <./descending_third.pdf>]
+<./descending_third.pdf, id=293, page=2, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 2>
+Package pdftex.def Info: ./descending_third.pdf, page2 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 2>
+Package pdftex.def Info: ./descending_third.pdf, page2 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 2>
+Package pdftex.def Info: ./descending_third.pdf, page2 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [51 <./descending_third.pdf>]
+<./descending_third.pdf, id=297, page=3, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 3>
+Package pdftex.def Info: ./descending_third.pdf, page3 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 3>
+Package pdftex.def Info: ./descending_third.pdf, page3 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 3>
+Package pdftex.def Info: ./descending_third.pdf, page3 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [52 <./descending_third.pdf>]
+<./descending_third.pdf, id=301, page=4, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 4>
+Package pdftex.def Info: ./descending_third.pdf, page4 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 4>
+Package pdftex.def Info: ./descending_third.pdf, page4 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 4>
+Package pdftex.def Info: ./descending_third.pdf, page4 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [53 <./descending_third.pdf>]
+<./descending_third.pdf, id=306, page=5, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 5>
+Package pdftex.def Info: ./descending_third.pdf, page5 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 5>
+Package pdftex.def Info: ./descending_third.pdf, page5 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 5>
+Package pdftex.def Info: ./descending_third.pdf, page5 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [54 <./descending_third.pdf>]
+<./descending_third.pdf, id=310, page=6, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 6>
+Package pdftex.def Info: ./descending_third.pdf, page6 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 6>
+Package pdftex.def Info: ./descending_third.pdf, page6 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 6>
+Package pdftex.def Info: ./descending_third.pdf, page6 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [55 <./descending_third.pdf>]
+<./descending_third.pdf, id=314, page=7, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 7>
+Package pdftex.def Info: ./descending_third.pdf, page7 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 7>
+Package pdftex.def Info: ./descending_third.pdf, page7 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 7>
+Package pdftex.def Info: ./descending_third.pdf, page7 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [56 <./descending_third.pdf>]
+<./descending_third.pdf, id=318, page=8, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 8>
+Package pdftex.def Info: ./descending_third.pdf, page8 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 8>
+Package pdftex.def Info: ./descending_third.pdf, page8 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 8>
+Package pdftex.def Info: ./descending_third.pdf, page8 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [57 <./descending_third.pdf>]
+<./descending_third.pdf, id=322, page=9, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 9>
+Package pdftex.def Info: ./descending_third.pdf, page9 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 9>
+Package pdftex.def Info: ./descending_third.pdf, page9 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 9>
+Package pdftex.def Info: ./descending_third.pdf, page9 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [58 <./descending_third.pdf>]
+<./descending_third.pdf, id=326, page=10, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 10>
+Package pdftex.def Info: ./descending_third.pdf, page10 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 10>
+Package pdftex.def Info: ./descending_third.pdf, page10 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 10>
+Package pdftex.def Info: ./descending_third.pdf, page10 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [59 <./descending_third.pdf>]
+<./descending_third.pdf, id=331, page=11, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 11>
+Package pdftex.def Info: ./descending_third.pdf, page11 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 11>
+Package pdftex.def Info: ./descending_third.pdf, page11 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 11>
+Package pdftex.def Info: ./descending_third.pdf, page11 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [60 <./descending_third.pdf>]
+<./descending_third.pdf, id=335, page=12, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 12>
+Package pdftex.def Info: ./descending_third.pdf, page12 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 12>
+Package pdftex.def Info: ./descending_third.pdf, page12 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 12>
+Package pdftex.def Info: ./descending_third.pdf, page12 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [61 <./descending_third.pdf>]
+<./descending_third.pdf, id=339, page=13, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 13>
+Package pdftex.def Info: ./descending_third.pdf, page13 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 13>
+Package pdftex.def Info: ./descending_third.pdf, page13 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 13>
+Package pdftex.def Info: ./descending_third.pdf, page13 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [62 <./descending_third.pdf>]
+<./descending_third.pdf, id=343, page=14, 614.295pt x 794.97pt>
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 14>
+Package pdftex.def Info: ./descending_third.pdf, page14 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+ <use ./descending_third.pdf, page 14>
+Package pdftex.def Info: ./descending_third.pdf, page14 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_third.pdf Graphic file (type pdf)
+
+<use ./descending_third.pdf, page 14>
+Package pdftex.def Info: ./descending_third.pdf, page14 used on input line 64.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [63 <./descending_third.pdf>]
+<./ascending_fourth.pdf, id=347, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf>
+Package pdftex.def Info: ./ascending_fourth.pdf used on input line 67.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf>
+Package pdftex.def Info: ./ascending_fourth.pdf used on input line 67.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<./ascending_fourth.pdf, id=350, page=1, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fourth.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fourth.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fourth.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fourth.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fourth.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [64 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=364, page=2, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 2>
+Package pdftex.def Info: ./ascending_fourth.pdf, page2 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 2>
+Package pdftex.def Info: ./ascending_fourth.pdf, page2 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 2>
+Package pdftex.def Info: ./ascending_fourth.pdf, page2 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [65 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=369, page=3, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 3>
+Package pdftex.def Info: ./ascending_fourth.pdf, page3 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 3>
+Package pdftex.def Info: ./ascending_fourth.pdf, page3 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 3>
+Package pdftex.def Info: ./ascending_fourth.pdf, page3 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [66 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=373, page=4, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 4>
+Package pdftex.def Info: ./ascending_fourth.pdf, page4 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 4>
+Package pdftex.def Info: ./ascending_fourth.pdf, page4 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 4>
+Package pdftex.def Info: ./ascending_fourth.pdf, page4 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [67 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=377, page=5, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 5>
+Package pdftex.def Info: ./ascending_fourth.pdf, page5 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 5>
+Package pdftex.def Info: ./ascending_fourth.pdf, page5 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 5>
+Package pdftex.def Info: ./ascending_fourth.pdf, page5 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [68 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=381, page=6, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 6>
+Package pdftex.def Info: ./ascending_fourth.pdf, page6 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 6>
+Package pdftex.def Info: ./ascending_fourth.pdf, page6 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 6>
+Package pdftex.def Info: ./ascending_fourth.pdf, page6 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [69 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=385, page=7, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 7>
+Package pdftex.def Info: ./ascending_fourth.pdf, page7 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 7>
+Package pdftex.def Info: ./ascending_fourth.pdf, page7 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 7>
+Package pdftex.def Info: ./ascending_fourth.pdf, page7 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [70 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=389, page=8, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 8>
+Package pdftex.def Info: ./ascending_fourth.pdf, page8 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 8>
+Package pdftex.def Info: ./ascending_fourth.pdf, page8 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 8>
+Package pdftex.def Info: ./ascending_fourth.pdf, page8 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [71 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=394, page=9, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 9>
+Package pdftex.def Info: ./ascending_fourth.pdf, page9 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 9>
+Package pdftex.def Info: ./ascending_fourth.pdf, page9 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 9>
+Package pdftex.def Info: ./ascending_fourth.pdf, page9 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [72 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=399, page=10, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 10>
+Package pdftex.def Info: ./ascending_fourth.pdf, page10 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 10>
+Package pdftex.def Info: ./ascending_fourth.pdf, page10 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 10>
+Package pdftex.def Info: ./ascending_fourth.pdf, page10 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [73 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=403, page=11, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 11>
+Package pdftex.def Info: ./ascending_fourth.pdf, page11 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 11>
+Package pdftex.def Info: ./ascending_fourth.pdf, page11 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 11>
+Package pdftex.def Info: ./ascending_fourth.pdf, page11 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [74 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=407, page=12, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 12>
+Package pdftex.def Info: ./ascending_fourth.pdf, page12 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 12>
+Package pdftex.def Info: ./ascending_fourth.pdf, page12 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 12>
+Package pdftex.def Info: ./ascending_fourth.pdf, page12 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [75 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=411, page=13, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 13>
+Package pdftex.def Info: ./ascending_fourth.pdf, page13 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 13>
+Package pdftex.def Info: ./ascending_fourth.pdf, page13 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 13>
+Package pdftex.def Info: ./ascending_fourth.pdf, page13 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [76 <./ascending_fourth.pdf>]
+<./ascending_fourth.pdf, id=415, page=14, 614.295pt x 794.97pt>
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 14>
+Package pdftex.def Info: ./ascending_fourth.pdf, page14 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+ <use ./ascending_fourth.pdf, page 14>
+Package pdftex.def Info: ./ascending_fourth.pdf, page14 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fourth.pdf Graphic file (type pdf)
+
+<use ./ascending_fourth.pdf, page 14>
+Package pdftex.def Info: ./ascending_fourth.pdf, page14 used on input line 67.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [77 <./ascending_fourth.pdf>]
+<./descending_fourth.pdf, id=420, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf>
+Package pdftex.def Info: ./descending_fourth.pdf used on input line 70.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf>
+Package pdftex.def Info: ./descending_fourth.pdf used on input line 70.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<./descending_fourth.pdf, id=423, page=1, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 1>
+Package pdftex.def Info: ./descending_fourth.pdf, page1 used on input line 70.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 1>
+Package pdftex.def Info: ./descending_fourth.pdf, page1 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 1>
+Package pdftex.def Info: ./descending_fourth.pdf, page1 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 1>
+Package pdftex.def Info: ./descending_fourth.pdf, page1 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 1>
+Package pdftex.def Info: ./descending_fourth.pdf, page1 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [78 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=437, page=2, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 2>
+Package pdftex.def Info: ./descending_fourth.pdf, page2 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 2>
+Package pdftex.def Info: ./descending_fourth.pdf, page2 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 2>
+Package pdftex.def Info: ./descending_fourth.pdf, page2 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [79 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=441, page=3, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 3>
+Package pdftex.def Info: ./descending_fourth.pdf, page3 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 3>
+Package pdftex.def Info: ./descending_fourth.pdf, page3 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 3>
+Package pdftex.def Info: ./descending_fourth.pdf, page3 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [80 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=445, page=4, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 4>
+Package pdftex.def Info: ./descending_fourth.pdf, page4 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 4>
+Package pdftex.def Info: ./descending_fourth.pdf, page4 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 4>
+Package pdftex.def Info: ./descending_fourth.pdf, page4 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [81 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=449, page=5, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 5>
+Package pdftex.def Info: ./descending_fourth.pdf, page5 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 5>
+Package pdftex.def Info: ./descending_fourth.pdf, page5 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 5>
+Package pdftex.def Info: ./descending_fourth.pdf, page5 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [82 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=453, page=6, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 6>
+Package pdftex.def Info: ./descending_fourth.pdf, page6 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 6>
+Package pdftex.def Info: ./descending_fourth.pdf, page6 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 6>
+Package pdftex.def Info: ./descending_fourth.pdf, page6 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [83 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=458, page=7, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 7>
+Package pdftex.def Info: ./descending_fourth.pdf, page7 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 7>
+Package pdftex.def Info: ./descending_fourth.pdf, page7 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 7>
+Package pdftex.def Info: ./descending_fourth.pdf, page7 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [84 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=462, page=8, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 8>
+Package pdftex.def Info: ./descending_fourth.pdf, page8 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 8>
+Package pdftex.def Info: ./descending_fourth.pdf, page8 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 8>
+Package pdftex.def Info: ./descending_fourth.pdf, page8 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [85 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=466, page=9, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 9>
+Package pdftex.def Info: ./descending_fourth.pdf, page9 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 9>
+Package pdftex.def Info: ./descending_fourth.pdf, page9 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 9>
+Package pdftex.def Info: ./descending_fourth.pdf, page9 used on input line 70.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [86 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=470, page=10, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 10>
+Package pdftex.def Info: ./descending_fourth.pdf, page10 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 10>
+Package pdftex.def Info: ./descending_fourth.pdf, page10 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 10>
+Package pdftex.def Info: ./descending_fourth.pdf, page10 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [87 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=474, page=11, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 11>
+Package pdftex.def Info: ./descending_fourth.pdf, page11 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 11>
+Package pdftex.def Info: ./descending_fourth.pdf, page11 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 11>
+Package pdftex.def Info: ./descending_fourth.pdf, page11 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [88 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=478, page=12, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 12>
+Package pdftex.def Info: ./descending_fourth.pdf, page12 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 12>
+Package pdftex.def Info: ./descending_fourth.pdf, page12 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 12>
+Package pdftex.def Info: ./descending_fourth.pdf, page12 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [89 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=483, page=13, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 13>
+Package pdftex.def Info: ./descending_fourth.pdf, page13 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 13>
+Package pdftex.def Info: ./descending_fourth.pdf, page13 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 13>
+Package pdftex.def Info: ./descending_fourth.pdf, page13 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [90 <./descending_fourth.pdf>]
+<./descending_fourth.pdf, id=487, page=14, 614.295pt x 794.97pt>
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 14>
+Package pdftex.def Info: ./descending_fourth.pdf, page14 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+ <use ./descending_fourth.pdf, page 14>
+Package pdftex.def Info: ./descending_fourth.pdf, page14 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fourth.pdf Graphic file (type pdf)
+
+<use ./descending_fourth.pdf, page 14>
+Package pdftex.def Info: ./descending_fourth.pdf, page14 used on input line 70.
+
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [91 <./descending_fourth.pdf>]
+<./ascending_fifth.pdf, id=491, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf>
+Package pdftex.def Info: ./ascending_fifth.pdf used on input line 73.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf>
+Package pdftex.def Info: ./ascending_fifth.pdf used on input line 73.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<./ascending_fifth.pdf, id=494, page=1, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fifth.pdf, page1 used on input line 73.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fifth.pdf, page1 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fifth.pdf, page1 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fifth.pdf, page1 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 1>
+Package pdftex.def Info: ./ascending_fifth.pdf, page1 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [92 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=508, page=2, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 2>
+Package pdftex.def Info: ./ascending_fifth.pdf, page2 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 2>
+Package pdftex.def Info: ./ascending_fifth.pdf, page2 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 2>
+Package pdftex.def Info: ./ascending_fifth.pdf, page2 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [93 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=512, page=3, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 3>
+Package pdftex.def Info: ./ascending_fifth.pdf, page3 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 3>
+Package pdftex.def Info: ./ascending_fifth.pdf, page3 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 3>
+Package pdftex.def Info: ./ascending_fifth.pdf, page3 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [94 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=516, page=4, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 4>
+Package pdftex.def Info: ./ascending_fifth.pdf, page4 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 4>
+Package pdftex.def Info: ./ascending_fifth.pdf, page4 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 4>
+Package pdftex.def Info: ./ascending_fifth.pdf, page4 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [95 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=521, page=5, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 5>
+Package pdftex.def Info: ./ascending_fifth.pdf, page5 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 5>
+Package pdftex.def Info: ./ascending_fifth.pdf, page5 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 5>
+Package pdftex.def Info: ./ascending_fifth.pdf, page5 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [96 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=525, page=6, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 6>
+Package pdftex.def Info: ./ascending_fifth.pdf, page6 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 6>
+Package pdftex.def Info: ./ascending_fifth.pdf, page6 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 6>
+Package pdftex.def Info: ./ascending_fifth.pdf, page6 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [97 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=529, page=7, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 7>
+Package pdftex.def Info: ./ascending_fifth.pdf, page7 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 7>
+Package pdftex.def Info: ./ascending_fifth.pdf, page7 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 7>
+Package pdftex.def Info: ./ascending_fifth.pdf, page7 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [98 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=533, page=8, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 8>
+Package pdftex.def Info: ./ascending_fifth.pdf, page8 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 8>
+Package pdftex.def Info: ./ascending_fifth.pdf, page8 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 8>
+Package pdftex.def Info: ./ascending_fifth.pdf, page8 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [99 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=537, page=9, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 9>
+Package pdftex.def Info: ./ascending_fifth.pdf, page9 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 9>
+Package pdftex.def Info: ./ascending_fifth.pdf, page9 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 9>
+Package pdftex.def Info: ./ascending_fifth.pdf, page9 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [100 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=541, page=10, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 10>
+Package pdftex.def Info: ./ascending_fifth.pdf, page10 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 10>
+Package pdftex.def Info: ./ascending_fifth.pdf, page10 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 10>
+Package pdftex.def Info: ./ascending_fifth.pdf, page10 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [101 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=546, page=11, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 11>
+Package pdftex.def Info: ./ascending_fifth.pdf, page11 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 11>
+Package pdftex.def Info: ./ascending_fifth.pdf, page11 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 11>
+Package pdftex.def Info: ./ascending_fifth.pdf, page11 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [102 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=550, page=12, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 12>
+Package pdftex.def Info: ./ascending_fifth.pdf, page12 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 12>
+Package pdftex.def Info: ./ascending_fifth.pdf, page12 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 12>
+Package pdftex.def Info: ./ascending_fifth.pdf, page12 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [103 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=554, page=13, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 13>
+Package pdftex.def Info: ./ascending_fifth.pdf, page13 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 13>
+Package pdftex.def Info: ./ascending_fifth.pdf, page13 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 13>
+Package pdftex.def Info: ./ascending_fifth.pdf, page13 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [104 <./ascending_fifth.pdf>]
+<./ascending_fifth.pdf, id=558, page=14, 614.295pt x 794.97pt>
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 14>
+Package pdftex.def Info: ./ascending_fifth.pdf, page14 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+ <use ./ascending_fifth.pdf, page 14>
+Package pdftex.def Info: ./ascending_fifth.pdf, page14 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./ascending_fifth.pdf Graphic file (type pdf)
+
+<use ./ascending_fifth.pdf, page 14>
+Package pdftex.def Info: ./ascending_fifth.pdf, page14 used on input line 73.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [105 <./ascending_fifth.pdf>]
+<./descending_fifth.pdf, id=562, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf>
+Package pdftex.def Info: ./descending_fifth.pdf used on input line 75.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf>
+Package pdftex.def Info: ./descending_fifth.pdf used on input line 75.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<./descending_fifth.pdf, id=565, page=1, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 1>
+Package pdftex.def Info: ./descending_fifth.pdf, page1 used on input line 75.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 1>
+Package pdftex.def Info: ./descending_fifth.pdf, page1 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 1>
+Package pdftex.def Info: ./descending_fifth.pdf, page1 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 1>
+Package pdftex.def Info: ./descending_fifth.pdf, page1 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 1>
+Package pdftex.def Info: ./descending_fifth.pdf, page1 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [106 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=579, page=2, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 2>
+Package pdftex.def Info: ./descending_fifth.pdf, page2 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 2>
+Package pdftex.def Info: ./descending_fifth.pdf, page2 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 2>
+Package pdftex.def Info: ./descending_fifth.pdf, page2 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [107 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=584, page=3, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 3>
+Package pdftex.def Info: ./descending_fifth.pdf, page3 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 3>
+Package pdftex.def Info: ./descending_fifth.pdf, page3 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 3>
+Package pdftex.def Info: ./descending_fifth.pdf, page3 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [108 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=589, page=4, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 4>
+Package pdftex.def Info: ./descending_fifth.pdf, page4 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 4>
+Package pdftex.def Info: ./descending_fifth.pdf, page4 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 4>
+Package pdftex.def Info: ./descending_fifth.pdf, page4 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [109 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=593, page=5, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 5>
+Package pdftex.def Info: ./descending_fifth.pdf, page5 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 5>
+Package pdftex.def Info: ./descending_fifth.pdf, page5 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 5>
+Package pdftex.def Info: ./descending_fifth.pdf, page5 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [110 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=597, page=6, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 6>
+Package pdftex.def Info: ./descending_fifth.pdf, page6 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 6>
+Package pdftex.def Info: ./descending_fifth.pdf, page6 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 6>
+Package pdftex.def Info: ./descending_fifth.pdf, page6 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [111 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=601, page=7, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 7>
+Package pdftex.def Info: ./descending_fifth.pdf, page7 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 7>
+Package pdftex.def Info: ./descending_fifth.pdf, page7 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 7>
+Package pdftex.def Info: ./descending_fifth.pdf, page7 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [112 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=605, page=8, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 8>
+Package pdftex.def Info: ./descending_fifth.pdf, page8 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 8>
+Package pdftex.def Info: ./descending_fifth.pdf, page8 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 8>
+Package pdftex.def Info: ./descending_fifth.pdf, page8 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [113 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=610, page=9, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 9>
+Package pdftex.def Info: ./descending_fifth.pdf, page9 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 9>
+Package pdftex.def Info: ./descending_fifth.pdf, page9 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 9>
+Package pdftex.def Info: ./descending_fifth.pdf, page9 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [114 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=614, page=10, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 10>
+Package pdftex.def Info: ./descending_fifth.pdf, page10 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 10>
+Package pdftex.def Info: ./descending_fifth.pdf, page10 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 10>
+Package pdftex.def Info: ./descending_fifth.pdf, page10 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [115 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=618, page=11, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 11>
+Package pdftex.def Info: ./descending_fifth.pdf, page11 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 11>
+Package pdftex.def Info: ./descending_fifth.pdf, page11 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 11>
+Package pdftex.def Info: ./descending_fifth.pdf, page11 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [116 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=622, page=12, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 12>
+Package pdftex.def Info: ./descending_fifth.pdf, page12 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 12>
+Package pdftex.def Info: ./descending_fifth.pdf, page12 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 12>
+Package pdftex.def Info: ./descending_fifth.pdf, page12 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [117 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=626, page=13, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 13>
+Package pdftex.def Info: ./descending_fifth.pdf, page13 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 13>
+Package pdftex.def Info: ./descending_fifth.pdf, page13 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 13>
+Package pdftex.def Info: ./descending_fifth.pdf, page13 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [118 <./descending_fifth.pdf>]
+<./descending_fifth.pdf, id=630, page=14, 614.295pt x 794.97pt>
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 14>
+Package pdftex.def Info: ./descending_fifth.pdf, page14 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+ <use ./descending_fifth.pdf, page 14>
+Package pdftex.def Info: ./descending_fifth.pdf, page14 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./descending_fifth.pdf Graphic file (type pdf)
+
+<use ./descending_fifth.pdf, page 14>
+Package pdftex.def Info: ./descending_fifth.pdf, page14 used on input line 75.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [119 <./descending_fifth.pdf>]
+<./cadences.pdf, id=635, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf>
+Package pdftex.def Info: ./cadences.pdf used on input line 77.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf>
+Package pdftex.def Info: ./cadences.pdf used on input line 77.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+ <./cadences.pdf, id=638, page=1, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 1>
+Package pdftex.def Info: ./cadences.pdf, page1 used on input line 77.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 1>
+Package pdftex.def Info: ./cadences.pdf, page1 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 1>
+Package pdftex.def Info: ./cadences.pdf, page1 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 1>
+Package pdftex.def Info: ./cadences.pdf, page1 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 1>
+Package pdftex.def Info: ./cadences.pdf, page1 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [120 <./cadences.pdf>]
+<./cadences.pdf, id=652, page=2, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 2>
+Package pdftex.def Info: ./cadences.pdf, page2 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 2>
+Package pdftex.def Info: ./cadences.pdf, page2 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 2>
+Package pdftex.def Info: ./cadences.pdf, page2 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [121 <./cadences.pdf>]
+<./cadences.pdf, id=656, page=3, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 3>
+Package pdftex.def Info: ./cadences.pdf, page3 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 3>
+Package pdftex.def Info: ./cadences.pdf, page3 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 3>
+Package pdftex.def Info: ./cadences.pdf, page3 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [122 <./cadences.pdf>]
+<./cadences.pdf, id=660, page=4, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 4>
+Package pdftex.def Info: ./cadences.pdf, page4 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 4>
+Package pdftex.def Info: ./cadences.pdf, page4 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 4>
+Package pdftex.def Info: ./cadences.pdf, page4 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [123 <./cadences.pdf>]
+<./cadences.pdf, id=664, page=5, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 5>
+Package pdftex.def Info: ./cadences.pdf, page5 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 5>
+Package pdftex.def Info: ./cadences.pdf, page5 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 5>
+Package pdftex.def Info: ./cadences.pdf, page5 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [124 <./cadences.pdf>]
+<./cadences.pdf, id=668, page=6, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 6>
+Package pdftex.def Info: ./cadences.pdf, page6 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 6>
+Package pdftex.def Info: ./cadences.pdf, page6 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 6>
+Package pdftex.def Info: ./cadences.pdf, page6 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [125 <./cadences.pdf>]
+<./cadences.pdf, id=673, page=7, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 7>
+Package pdftex.def Info: ./cadences.pdf, page7 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 7>
+Package pdftex.def Info: ./cadences.pdf, page7 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 7>
+Package pdftex.def Info: ./cadences.pdf, page7 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [126 <./cadences.pdf>]
+<./cadences.pdf, id=677, page=8, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 8>
+Package pdftex.def Info: ./cadences.pdf, page8 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 8>
+Package pdftex.def Info: ./cadences.pdf, page8 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 8>
+Package pdftex.def Info: ./cadences.pdf, page8 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [127 <./cadences.pdf>]
+<./cadences.pdf, id=681, page=9, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 9>
+Package pdftex.def Info: ./cadences.pdf, page9 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 9>
+Package pdftex.def Info: ./cadences.pdf, page9 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 9>
+Package pdftex.def Info: ./cadences.pdf, page9 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [128 <./cadences.pdf>]
+<./cadences.pdf, id=685, page=10, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 10>
+Package pdftex.def Info: ./cadences.pdf, page10 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 10>
+Package pdftex.def Info: ./cadences.pdf, page10 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 10>
+Package pdftex.def Info: ./cadences.pdf, page10 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [129 <./cadences.pdf>]
+<./cadences.pdf, id=689, page=11, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 11>
+Package pdftex.def Info: ./cadences.pdf, page11 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 11>
+Package pdftex.def Info: ./cadences.pdf, page11 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 11>
+Package pdftex.def Info: ./cadences.pdf, page11 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [130 <./cadences.pdf>]
+<./cadences.pdf, id=693, page=12, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 12>
+Package pdftex.def Info: ./cadences.pdf, page12 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 12>
+Package pdftex.def Info: ./cadences.pdf, page12 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 12>
+Package pdftex.def Info: ./cadences.pdf, page12 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [131 <./cadences.pdf>]
+<./cadences.pdf, id=698, page=13, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 13>
+Package pdftex.def Info: ./cadences.pdf, page13 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 13>
+Package pdftex.def Info: ./cadences.pdf, page13 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 13>
+Package pdftex.def Info: ./cadences.pdf, page13 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [132 <./cadences.pdf>]
+<./cadences.pdf, id=702, page=14, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 14>
+Package pdftex.def Info: ./cadences.pdf, page14 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 14>
+Package pdftex.def Info: ./cadences.pdf, page14 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 14>
+Package pdftex.def Info: ./cadences.pdf, page14 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [133 <./cadences.pdf>]
+<./cadences.pdf, id=706, page=15, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 15>
+Package pdftex.def Info: ./cadences.pdf, page15 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 15>
+Package pdftex.def Info: ./cadences.pdf, page15 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 15>
+Package pdftex.def Info: ./cadences.pdf, page15 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [134 <./cadences.pdf>]
+<./cadences.pdf, id=710, page=16, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 16>
+Package pdftex.def Info: ./cadences.pdf, page16 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 16>
+Package pdftex.def Info: ./cadences.pdf, page16 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 16>
+Package pdftex.def Info: ./cadences.pdf, page16 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [135 <./cadences.pdf>]
+<./cadences.pdf, id=714, page=17, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 17>
+Package pdftex.def Info: ./cadences.pdf, page17 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 17>
+Package pdftex.def Info: ./cadences.pdf, page17 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 17>
+Package pdftex.def Info: ./cadences.pdf, page17 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [136 <./cadences.pdf>]
+<./cadences.pdf, id=718, page=18, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 18>
+Package pdftex.def Info: ./cadences.pdf, page18 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 18>
+Package pdftex.def Info: ./cadences.pdf, page18 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 18>
+Package pdftex.def Info: ./cadences.pdf, page18 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [137 <./cadences.pdf>]
+<./cadences.pdf, id=723, page=19, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 19>
+Package pdftex.def Info: ./cadences.pdf, page19 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 19>
+Package pdftex.def Info: ./cadences.pdf, page19 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 19>
+Package pdftex.def Info: ./cadences.pdf, page19 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [138 <./cadences.pdf>]
+<./cadences.pdf, id=727, page=20, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 20>
+Package pdftex.def Info: ./cadences.pdf, page20 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 20>
+Package pdftex.def Info: ./cadences.pdf, page20 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 20>
+Package pdftex.def Info: ./cadences.pdf, page20 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [139 <./cadences.pdf>]
+<./cadences.pdf, id=731, page=21, 614.295pt x 794.97pt>
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 21>
+Package pdftex.def Info: ./cadences.pdf, page21 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+ <use ./cadences.pdf, page 21>
+Package pdftex.def Info: ./cadences.pdf, page21 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+File: ./cadences.pdf Graphic file (type pdf)
+
+<use ./cadences.pdf, page 21>
+Package pdftex.def Info: ./cadences.pdf, page21 used on input line 77.
+(pdftex.def)             Requested size: 595.86543pt x 771.11998pt.
+ [140 <./cadences.pdf>] (./book.aux (./booktoc.aux)) ) 
+Here is how much of TeX's memory you used:
+ 4143 strings out of 494977
+ 64848 string characters out of 6180184
+ 123741 words of memory out of 5000000
+ 7295 multiletter control sequences out of 15000+600000
+ 6786 words of font info for 24 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 41i,19n,49p,242b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
+Output written on book.pdf (142 pages, 2398857 bytes).
+PDF statistics:
+ 763 PDF objects out of 1000 (max. 8388607)
+ 426 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 851 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -3,10 +3,10 @@
 \header {
   title= "Ascending Third"
 }
-%\include "./ascending_third/ascending_third1.ly"
-%\pageBreak
-% \include "./ascending_third/ascending_third2.ly"
-% \pageBreak
+\include "./ascending_third/ascending_third1.ly"
+\pageBreak
+ \include "./ascending_third/ascending_third2.ly"
+ \pageBreak
  \include "./ascending_third/ascending_third9.ly"
   \pageBreak
  \include "./ascending_third/ascending_third8.ly"
@@ -21,8 +21,6 @@
    \pageBreak
  \include "./ascending_third/ascending_third3.ly"
    \pageBreak
- %\include "./ascending_third/ascending_third10.ly"
-\paper{
-   page-count = 14
-}
+ \include "./ascending_third/ascending_third10.ly"
+
  \include "./include.ly"

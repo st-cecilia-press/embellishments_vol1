@@ -1,0 +1,78 @@
+\documentclass[11pt]{book}
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+\usepackage[top=48pt,headheight=18pt,headsep=12pt,bottom=48pt,inner=48pt,outer=48pt]{geometry}
+
+\begin{document}
+
+\pagestyle{fancy}
+
+\fancyhf{}
+
+\fancyhead[LE,RO]{\thepage}
+%\fancyhead[RE,LO]{Ganassi Embellishments Vol 1}
+\fancyhead[C]{   \leftmark }
+\fancyfoot[C]{
+Ganassi Embellishments \textit{Regola Prima}
+}
+
+\fancypagestyle{FooBar}{%
+  \fancyhead{}
+  \fancyhead[LE,RO]{\thepage}
+}
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{#1}}{}}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{11pt plus 2pt minus 4pt}
+\pagenumbering{roman}
+\begin{titlepage}
+    \centering
+    \vspace*{2.5cm}
+    {\scshape\LARGE Ganassi Embellishments \textit{Regola Prima} \par}
+    \vspace{1cm}
+    {\scshape\Large An aide to practicing the embellishments in Ganassi's \em{Opera Intitulata Fontegra}. \par}
+    \vspace{1cm}
+    {\scshape\LARGE Monique Rio, June 4, 2017 \par}
+    \vspace{2cm}
+    \vfill
+    {\large St. Cecilia Press}
+\end{titlepage}
+
+\include{booktoc}
+
+\setcounter{page}{1}
+\pagenumbering{arabic}
+%\chapter*{Unison}
+\chaptermark{Unison}\thispagestyle{FooBar}
+
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,unison},offset=0 -.12in,scale=0.97]{./unison.pdf}
+
+\chaptermark{Ascending Second}\thispagestyle{FooBar}
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,ascending_second},offset=0 -.12in,scale=0.97]{./ascending_second.pdf}
+
+\chaptermark{Descending Second}\thispagestyle{FooBar}
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,descending_second},offset=0 -.12in,scale=0.97]{./descending_second.pdf}
+
+\chaptermark{Ascending Third}\thispagestyle{FooBar}
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,ascending_third},offset=0 -.12in,scale=0.97]{./ascending_third.pdf}
+\chaptermark{Descending Third}\thispagestyle{FooBar}
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,descending_third},offset=0 -.12in,scale=0.97]{./descending_third.pdf}
+
+\chaptermark{Ascending Fourth}\thispagestyle{FooBar}
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,ascending_fourth},offset=0 -.12in,scale=0.97]{./ascending_fourth.pdf}
+
+\chaptermark{Descending Fourth}\thispagestyle{FooBar}
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,descending_fourth},offset=0 -.12in,scale=0.97]{./descending_fourth.pdf}
+
+\chaptermark{Ascending Fifth}\thispagestyle{FooBar}
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,ascending_fifth},offset=0 -.12in,scale=0.97]{./ascending_fifth.pdf}
+\chaptermark{Descending Fifth}\thispagestyle{FooBar}
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,descending_fifth},offset=0 -.12in,scale=0.97]{./descending_fifth.pdf}
+\chaptermark{Cadences}\thispagestyle{FooBar}
+\includepdf[pages=-,pagecommand={},addtolist={1,figure,,cadences},offset=0 -.12in,scale=0.97]{./cadences.pdf}
+\end{document}

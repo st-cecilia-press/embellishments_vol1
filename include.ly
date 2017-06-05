@@ -25,3 +25,6 @@
      
  }
  \midi { }
+ \header{
+   tagline = ""
+ }

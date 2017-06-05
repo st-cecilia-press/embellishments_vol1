@@ -3,10 +3,10 @@
 \header {
   title= "Ascending Fourth"
 }
-%\include "./ascending_fourth/ascending_fourth1.ly"
-%\pageBreak
-% \include "./ascending_fourth/ascending_fourth2.ly"
-% \pageBreak
+\include "./ascending_fourth/ascending_fourth1.ly"
+\pageBreak
+ \include "./ascending_fourth/ascending_fourth2.ly"
+ \pageBreak
  \include "./ascending_fourth/ascending_fourth9.ly"
   \pageBreak
  \include "./ascending_fourth/ascending_fourth8.ly"
@@ -20,9 +20,7 @@
  \include "./ascending_fourth/ascending_fourth4.ly"
    \pageBreak
  \include "./ascending_fourth/ascending_fourth3.ly"
-%   \pageBreak
-% \include "./ascending_fourth/ascending_fourth10.ly"
-\paper{
-   page-count = 14
-}
+   \pageBreak
+ \include "./ascending_fourth/ascending_fourth10.ly"
+
  \include "./include.ly"
