@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.6.4)  6 JUN 2017 10:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.6.4)  7 JUN 2017 07:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3014,7 +3014,7 @@ Here is how much of TeX's memory you used:
  7304 multiletter control sequences out of 15000+600000
  6786 words of font info for 24 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 41i,19n,49p,549b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,19n,49p,550b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts
@@ -3023,7 +3023,7 @@ public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on book.pdf (143 pages, 2473067 bytes).
+Output written on book.pdf (143 pages, 2473072 bytes).
 PDF statistics:
  770 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
